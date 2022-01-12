@@ -1,12 +1,13 @@
 import pandas as pd
 import numpy as np
 import os
+import json
 
-def getdata(school, metric):
+def getdata(school, metric, data):
     info = [(df.loc[df["School"] == school, metric].iloc[0])
          if len(df.loc[df["School"] == school, metric]) > 0
          else 0
-         for df in dashboarddata]
+         for df in data]
     return sum(info)
 
 population = {'A. Mario Loiederman Middle Sch': 1059, 'Albert Einstein High School': 2127, 'Alternative Ed': 121, 'Arcola Elementary School': 726, 'Argyle Middle School': 1084, 'Ashburton Elementary School': 939, 'Bannockburn Elementary School': 469, 'Bayard Rustin Elementary Schl': 823, 'Beall Elementary School': 562, 'Bel Pre Elementary School': 627, 'Bells Mill Elementary School': 647, 'Belmont Elementary School': 384, 'Benjamin Banneker Middle Schl': 964, 'Bethesda Elementary School': 732, 'Bethesda-Chevy Chase High Schl': 2530, 'Beverly Farms Elementary Schl': 612, 'Bradley Hills Elementary Schl': 533, 'Briggs Chaney Middle School': 1064, 'Brooke Grove Elementary School': 519, 'Brookhaven Elementary School': 463, 'Brown Station Elementary Schl': 676, 'Burning Tree Elementary School': 476, 'Burnt Mills Elementary School': 705, 'Burtonsville Elementary School': 677, 'Cabin John Middle School': 1155, 'Candlewood Elementary School': 420, 'Cannon Road Elementary School': 464, 'Capt. James Daly Elementary': 613, 'Carderock Springs Elem School': 378, 'Carl Sandburg Learning Center': 158, 'Cashell Elementary School': 376, 'Cedar Grove Elementary School': 449, 'Chevy Chase Elementary School': 509, 'Clarksburg Elementary School': 856, 'Clarksburg High School': 2546, 'Clearspring Elementary School': 635, 'Clopper Mill Elementary School': 520, 'Cloverly Elementary School': 473, 'Col. Zadok Magruder High Schl': 1797, 'Cold Spring Elementary School': 370, 'College Gardens Elem School': 594, 'Cresthaven Elementary School': 547, 'Damascus Elementary School': 417, 'Damascus High School': 1533, 'Darnestown Elementary School': 377, 'Diamond Elementary School': 815, 'Dr. Charles Drew Elem School': 561, 'Dr. Martin Luther King, Jr. MS': 1002, 'Dr. Sally K. Ride Elem School': 565, 'DuFief Elementary School': 324, 'Earle B. Wood Middle School': 1174, 'East Silver Spring Elem School': 547, 'Eastern Middle School': 1052, 'Fairland Elementary School': 635, 'Fallsmead Elementary School': 587, 'Farmland Elementary School': 888, 'Fields Road Elementary School': 543, 'Flora M. Singer Elem School': 733, 'Flower Hill Elementary School': 509, 'Flower Valley Elem School': 583, 'Forest Knolls Elem School': 551, 'Forest Oak Middle School': 1048, 'Fox Chapel Elementary School': 651, 'Francis Scott Key Middle Schl': 1098, 'Gaithersburg Elementary School': 902, 'Gaithersburg High School': 2615, 'Gaithersburg Middle School': 1014, 'Galway Elementary School': 824, 'Garrett Park Elementary School': 762, 'Georgian Forest Elem School': 647, 'Germantown Elementary School': 356, 'Glen Haven Elementary School': 569, 'Glenallan Elementary School': 778, 'Goshen Elementary School': 568, 'Great Seneca Creek Elem School': 607, 'Greencastle Elementary School': 771, 'Greenwood Elementary School': 596, 'Hallie Wells Middle Sch': 1086, 'Harmony Hills Elem School': 794, 'Herbert Hoover Middle School': 1114, 'Highland Elementary School': 615, 'Highland View Elem School': 415, 'Jackson Road Elem School': 745, 'James Hubert Blake High School': 1946, 'JoAnn Leleck ES at Broad Acres': 905, 'John F. Kennedy High School': 2020, 'John Poole Middle School': 482, 'John T. Baker Middle School': 934, 'Jones Lane Elementary School': 473, 'Judith A. Resnik Elem School': 660, 'Julius West Middle School': 1502, 'Kemp Mill Elementary School': 496, 'Kensington-Parkwood Elem Schl': 668, 'Kingsview Middle School': 1105, 'Lake Seneca Elementary School': 538, 'Lakelands Park Middle School': 1214, 'Lakewood Elementary School': 480, 'Laytonsville Elementary School': 408, 'Little Bennett Elementary Schl': 733, 'Lois P. Rockwell Elementary': 514, 'Longview': 119, 'Lucy V. Barnsley Elementary': 778, 'Luxmanor Elementary School': 730, 'Maryvale Elementary School': 715, 'Meadow Hall Elementary School': 459, 'Mill Creek Towne Elem School': 551, 'Monocacy Elementary School': 187, 'Montgomery Blair High School': 3501, 'Montgomery Knolls Elem School': 554, 'Montgomery Village Middle Schl': 882, 'Neelsville Middle School': 908, 'New Hampshire Estates ES': 520, 'Newport Mill Middle School': 737, 'North Bethesda Middle School': 1270, 'North Chevy Chase Elem School': 260, 'Northwest High School': 2773, 'Northwood High School': 2046, 'Oak View Elementary School': 464, 'Oakland Terrace Elem School': 546, 'Odessa Shannon Middle Schl': 878, 'Olney Elementary School': 680, 'Paint Branch High School': 2292, 'Parkland Middle School': 1277, 'Pine Crest Elementary School': 526, 'Piney Branch Elementary School': 682, 'Poolesville Elementary School': 595, 'Poolesville High School': 1382, 'Potomac Elementary School': 463, 'Quince Orchard High School': 2320, 'Rachel Carson Elem School': 768, 'Redland Middle School': 688, 'RICA - Reg Inst for Child/Adol': 152, 'Richard Montgomery High School': 2583, 'Ridgeview Middle School': 876, 'Ritchie Park Elementary School': 420, 'Robert Frost Middle School': 1088, 'Roberto Clemente Middle School': 1061, 'Rock Creek Forest Elementary': 795, 'Rock Creek Valley Elem School': 434, 'Rock Terrace School': 143, 'Rock View Elementary School': 713, 'Rockville High School': 1613, 'Rocky Hill Middle School': 1116, 'Rolling Terrace Elem School': 852, 'Ronald McNair Elem': 861, 'Rosa M. Parks Middle School': 929, 'Roscoe R. Nix Elementary': 556, 'Rosemary Hills Elem School': 610, 'Rosemont Elementary School': 692, 'S. Christa McAuliffe ES': 600, 'Sargent Shriver Elem School': 849, 'Seneca Valley High School': 2243, 'Sequoyah Elementary School': 413, 'Seven Locks Elementary School': 433, 'Shady Grove Middle School': 614, 'Sherwood Elementary School': 551, 'Sherwood High School': 1966, 'Silver Creek Middle School': 891, 'Silver Spring International MS': 1289, 'Sligo Creek Elementary School': 716, 'Sligo Middle School': 823, 'Snowden Farm ES': 822, 'Somerset Elementary School': 497, 'South Lake Elementary School': 927, 'Spark M. Matsunaga Elem School': 679, 'Springbrook High School': 1902, 'Stedwick Elementary School': 594, 'Stephen Knolls School': 89, 'Stone Mill Elementary School': 569, 'Stonegate Elementary School': 555, 'Strathmore Elementary School': 553, 'Strawberry Knoll Elem School': 669, 'Summit Hall Elementary School': 809, 'Takoma Park Elementary School': 624, 'Takoma Park Middle School': 1247, 'Thomas S. Wootton High School': 2132, 'Thomas W. Pyle Middle School': 1454, 'Thurgood Marshall Elem School': 589, 'Tilden Middle School': 1146, 'Travilah Elementary School': 401, 'Twinbrook Elementary School': 602, 'Viers Mill Elementary School': 549, 'Walt Whitman High School': 2213, 'Walter Johnson High School': 3139, 'Washington Grove Elem School': 498, 'Waters Landing Elementary Schl': 825, 'Watkins Mill Elementary School': 898, 'Watkins Mill High School': 1802, 'Wayside Elementary School': 502, 'Weller Road Elementary School': 826, 'Westbrook Elementary School': 335, 'Westland Middle School': 897, 'Westover Elementary School': 318, 'Wheaton High School': 2666, 'Wheaton Woods Elementary Schl': 612, 'Whetstone Elementary School': 768, 'White Oak Middle School': 938, 'William B. Gibbs, Jr. ES': 556, 'William H. Farquhar Middle Sch': 738, 'William Tyler Page ES': 703, 'Wilson Wims Elementary School': 657, 'Winston Churchill High School': 2459, 'Wood Acres Elementary School': 582, 'Woodfield Elementary School': 363, 'Woodlin Elementary School': 619, 'Wyngate Elementary School': 773}
@@ -14,8 +15,18 @@ schools = ['A. Mario Loiederman Middle Sch', 'Albert Einstein High School', 'Alt
 
 directory = ("data")
 dashboarddata = []
+dashboarddata10days = []
 days = sorted(os.listdir(directory))[::-1][:10] #taking first 10 days for dashboard
 for filename in days:
+    if filename.endswith(".xlsx"):
+        df = pd.read_excel(f"{directory}/{filename}")
+        df.columns = ["School", "Staff", "Student", "Grand Total"]
+        dashboarddata10days.append(df)
+    else:
+        continue
+
+alldays = sorted(os.listdir(directory))[::-1]
+for filename in alldays:
     if filename.endswith(".xlsx"):
         df = pd.read_excel(f"{directory}/{filename}")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
@@ -23,20 +34,50 @@ for filename in days:
     else:
         continue
 
+dashboarddata10day = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
 dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
 
-staffdata = [getdata(school, "Staff") for school in schools]
-studentdata = [getdata(school, "Student") for school in schools]
-grandtotaldata = [getdata(school, "Grand Total") for school in schools]
+staffdata10 = [getdata(school, "Staff", dashboarddata10day) for school in schools]
+studentdata10 = [getdata(school, "Student", dashboarddata10day) for school in schools]
+grandtotaldata10 = [getdata(school, "Grand Total", dashboarddata10day) for school in schools]
+
+staffdata = [getdata(school, "Staff", dashboarddata) for school in schools]
+studentdata = [getdata(school, "Student", dashboarddata) for school in schools]
+grandtotaldata = [getdata(school, "Grand Total", dashboarddata) for school in schools]
+
+avgstaffdata10 = [data/len(days) for data in staffdata10]
+avgstudentdata10 = [data/len(days) for data in studentdata10]
+avggrandtotaldata10 = [data/len(days) for data in grandtotaldata10]
+
+avgstaffdata = [data/len(alldays) for data in staffdata10]
+avgstudentdata = [data/len(alldays) for data in studentdata10]
+avggrandtotaldata = [data/len(alldays) for data in grandtotaldata10]
 
 
 covidf = pd.DataFrame(
-    {"School": schools,
-     "10 Day Staff Count": staffdata,
-     "10 Day Student Count": studentdata,
-     "10 Day Grand Total": grandtotaldata
+    {
+     "school": schools,
+     "staff_cases_over_10_days": staffdata10,
+     "avg_staff_cases_over_10_days": avgstaffdata10,
+     "staff_cases_total": staffdata,
+     "avg_staff_cases_per_day": avgstaffdata,
+     "student_cases_over_10_days": studentdata10,
+     "avg_student_cases_over_10_days": avgstudentdata10,
+     "student_cases_total": studentdata,
+     "avg_student_cases_per_day": avgstudentdata,
+     "active_cases_over_10_days": grandtotaldata10,
+     "avg_total_over_10_days": avggrandtotaldata10,
+     "total_cases": grandtotaldata,
+     "avg_total_cases_per_day": avggrandtotaldata,
     }
 )
-#print(covidf)
+
+result = covidf.to_json(orient="records")
+parsed = json.loads(result)
+with open('dashboard.json', "w") as outputfile:
+    outputfile.write(json.dumps(parsed, indent=4))
+
+
+
 
 
