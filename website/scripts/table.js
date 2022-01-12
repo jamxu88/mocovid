@@ -1,4 +1,4 @@
-import * as d3 from "d3";
+
 d3.json('https://github.com/jamxu88/mocovid/blob/main/server/dashboard.json', data => {
     var sortAscending = true;
     var table = d3.select('#data').append('table');
