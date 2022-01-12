@@ -1,6 +1,6 @@
-function showData() {
-    const dataCanvas = document.createElement('p')
-    dataCanvas.id = 'dataCanvas'
-    dataCanvas.innerText = 'Test'
-    if(!document.getElementById('dataCanvas')) document.getElementById('data').appendChild(dataCanvas)
+async function loadData() {
+    await fetch('url').then(resp.json().then(data => {
+
+    }))
 }
+document.onload(loadData())

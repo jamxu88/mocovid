@@ -1,15 +1,21 @@
 <html>
     <head>
         <title>MCPS COVID-19 Statistics</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     </head>
     <body>
-        <div id='header'>
-            <h1>MCPS COVID-19 Statistics</h1>
+        <div id='header' class='center-content'>
+            <p id='heading' class='center-content'>MCPS COVID-19 Statistics</p>
+            <p>Data agreggated from the reports found at the <a href="https://www.montgomeryschoolsmd.org/coronavirus/dashboard/">MCPS COVID Dashboard</a> into a single visualization.</p>
         </div>
-        <div id='main'>
-            <button onclick="showData()">Get Data</button>
+        <div id='data' class='center-content'>
         </div>
-        <div id='data'></div>
+        <div class='footer'>
+            <p>Made with <3 by James and Saraansh | <a href='https://github.com/jamxu88/mocovid' target='_blank'>Github Repo</a> | <a href='https://github.com/jamxu88/mocovid' target='_blank'>Public API</a> | <a href='https://paypal.me/jamxu88' target='_blank'>Sponsor Us</a></p>
+        </div>
         <script src='script.js'></script>
         <script src="https://d3js.org/d3.v7.min.js"></script>
     </body>
