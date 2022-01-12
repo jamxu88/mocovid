@@ -19,6 +19,10 @@ body {
     place-content: center;
 }
 
+#data {
+	padding: 2rem;
+}
+
 div {
 	font-family: 'Open Sans', sans-serif;
 }
