@@ -37,6 +37,6 @@ covidf = pd.DataFrame(
      "10 Day Grand Total": grandtotaldata
     }
 )
-print(covidf)
+#print(covidf)
 
 
