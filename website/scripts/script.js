@@ -9,8 +9,9 @@ var data,StackedChart
     PieChart._createChart()
     console.log('Data Loaded')
 
+    
     document.getElementById('search').addEventListener('keyup', e => {
-        filter()
+        if(e.key == 'Enter') filter()
     })
     
 })();
