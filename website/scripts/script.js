@@ -9,25 +9,33 @@ var total_data,StackedChart,time_data
     StackedChart._setData(total_data)
     PieChart._setData(total_data)
     HeatMap._setData(time_data)
-
-    StackedChart._createChart()
-    PieChart._createChart()
-    HeatMap._createChart()
+    
     console.log('Data Loaded')
-
+    check()
     
     document.getElementById('search').addEventListener('keyup', e => {
-        if(e.key == 'Enter') filter()
+        if(e.key == 'Enter') search()
     })
     
 })();
 
-function filter() {
-    StackedChart.filter = document.getElementById('search').value.toLowerCase()
+function search() {
+    var getUrl = window.location;
+    var baseUrl = getUrl .protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/')[1];
+    window.location = baseUrl+`/?s=${document.getElementById('search').value}`
+}
+function check() {
+    var params = new URLSearchParams(window.location.search)
+    document.getElementById('search').value = params.get('s');
+    StackedChart.filter = params.get('s').toLocaleLowerCase();
     StackedChart._setData(total_data)
-    StackedChart._updateChart()
+    StackedChart._createChart()
 
-    HeatMap.filter = document.getElementById('search').value.toLowerCase()
+    HeatMap.filter = params.get('s').toLocaleLowerCase();
     HeatMap._setData(time_data)
-    HeatMap._updateChart()
+    HeatMap._createChart()
+
+    PieChart.filter = params.get('s').toLocaleLowerCase();
+    PieChart._setData(total_data)
+    PieChart._createChart()
 }
