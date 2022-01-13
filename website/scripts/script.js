@@ -27,15 +27,15 @@ function search() {
 function check() {
     var params = new URLSearchParams(window.location.search)
     document.getElementById('search').value = params.get('s');
-    StackedChart.filter = params.get('s').toLocaleLowerCase();
+    if(params.get('s')) StackedChart.filter = params.get('s').toLocaleLowerCase();
     StackedChart._setData(total_data)
     StackedChart._createChart()
 
-    HeatMap.filter = params.get('s').toLocaleLowerCase();
+    if(params.get('s')) HeatMap.filter = params.get('s').toLocaleLowerCase();
     HeatMap._setData(time_data)
     HeatMap._createChart()
 
-    PieChart.filter = params.get('s').toLocaleLowerCase();
+    if(params.get('s')) PieChart.filter = params.get('s').toLocaleLowerCase();
     PieChart._setData(total_data)
     PieChart._createChart()
 }
