@@ -23,7 +23,7 @@ class PieChart {
             }
           },
           title: {
-            text: "Active COVID cases in MCPS (10 day period)",
+            text: `Active COVID cases (10 day period)`,
             align: 'center'
           },
           dataLabels: {
