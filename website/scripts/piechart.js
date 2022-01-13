@@ -73,6 +73,7 @@ class PieChart {
         this.chart = null;
         this.chart = new ApexCharts(document.querySelector("#chart"), this.options);
         this.chart.render()
+        document.getElementById('loading').style = 'display:none'
         console.log('Chart Rendered')
     }
     _updateChart() {
