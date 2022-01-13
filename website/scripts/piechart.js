@@ -4,8 +4,11 @@ class PieChart {
         this.options = {
             series: [25, 15],
             chart: {
-            width: '20%',
+            width: '40%',
             type: 'pie',
+            animations: {
+              enabled: false
+            }
           },
           colors: ['#36BE32', '#CD4C31'],
           labels: ["Negative", "Positive"],
