@@ -1,6 +1,7 @@
 class StackedBarChart {
     constructor() {
         this.filter = null
+        this.chart = null
         this.options = {
             chart: {
                 type: 'bar',
@@ -44,7 +45,7 @@ class StackedBarChart {
                 offsetX: 40
               }
         }
-        this.chart = null
+        
     }
     _setData(data) {
         console.log('Set data')
