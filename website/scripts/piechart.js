@@ -4,7 +4,7 @@ class PieChart {
         this.options = {
             series: [25, 15],
             chart: {
-            width: '40%',
+            width: '20%',
             type: 'pie',
           },
           colors: ['#36BE32', '#CD4C31'],
