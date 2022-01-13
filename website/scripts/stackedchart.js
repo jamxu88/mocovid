@@ -60,6 +60,7 @@ class StackedBarChart {
             name: 'Student Cases',
             data: studentCaseArray
         }]
+        this.options.chart.height = schoolList.length * 25
         this.options.series = arr
         this.options.xaxis.categories = schoolList
     }
