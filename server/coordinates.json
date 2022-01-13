@@ -1,0 +1,818 @@
+{
+    "A. Mario Loiederman Middle Sch": {
+        "latitude": 39.06510605,
+        "longitude": -77.07000713907458
+    },
+    "Albert Einstein High School": {
+        "latitude": 39.03974495,
+        "longitude": -77.06585362266958
+    },
+    "Arcola Elementary School": {
+        "latitude": 39.04544645,
+        "longitude": -77.03952963788016
+    },
+    "Argyle Middle School": {
+        "latitude": 39.08851635,
+        "longitude": -77.04939545152651
+    },
+    "Ashburton Elementary School": {
+        "latitude": 39.019132850000005,
+        "longitude": -77.12727708551073
+    },
+    "Bannockburn Elementary School": {
+        "latitude": 38.974276200000006,
+        "longitude": -77.13817126544052
+    },
+    "Bayard Rustin Elementary Schl": {
+        "latitude": 39.07103687956145,
+        "longitude": -77.1450699845305
+    },
+    "Beall Elementary School": {
+        "latitude": 39.08825745,
+        "longitude": -77.16158906212014
+    },
+    "Bel Pre Elementary School": {
+        "latitude": 39.0819479,
+        "longitude": -77.05470188707267
+    },
+    "Bells Mill Elementary School": {
+        "latitude": 39.0322869,
+        "longitude": -77.16875040798148
+    },
+    "Belmont Elementary School": {
+        "latitude": 39.7272196,
+        "longitude": -84.14196758180151
+    },
+    "Benjamin Banneker Middle Schl": {
+        "latitude": 39.09698535,
+        "longitude": -76.94895516114775
+    },
+    "Bethesda Elementary School": {
+        "latitude": 38.9863896,
+        "longitude": -77.09989154712036
+    },
+    "Bethesda-Chevy Chase High Schl": {
+        "latitude": 38.9865633,
+        "longitude": -77.0884165516548
+    },
+    "Beverly Farms Elementary Schl": {
+        "latitude": 39.05216645,
+        "longitude": -77.1760934776326
+    },
+    "Bradley Hills Elementary Schl": {
+        "latitude": 38.9995543,
+        "longitude": -77.118034
+    },
+    "Briggs Chaney Middle School": {
+        "latitude": 39.1092591,
+        "longitude": -76.97030187242262
+    },
+    "Brooke Grove Elementary School": {
+        "latitude": 39.15723515,
+        "longitude": -77.0501636645623
+    },
+    "Brookhaven Elementary School": {
+        "latitude": 39.0829725,
+        "longitude": -77.0920476
+    },
+    "Brown Station Elementary Schl": {
+        "latitude": 39.1383066,
+        "longitude": -77.2311827204791
+    },
+    "Burning Tree Elementary School": {
+        "latitude": 38.990067100000005,
+        "longitude": -77.14331638803691
+    },
+    "Burnt Mills Elementary School": {
+        "latitude": 39.0393497,
+        "longitude": -77.00119195095272
+    },
+    "Burtonsville Elementary School": {
+        "latitude": 39.1112212,
+        "longitude": -76.9364394
+    },
+    "Cabin John Middle School": {
+        "latitude": 39.031692899999996,
+        "longitude": -77.17193628357515
+    },
+    "Candlewood Elementary School": {
+        "latitude": 39.1286518,
+        "longitude": -77.1472469
+    },
+    "Cannon Road Elementary School": {
+        "latitude": 39.0687199,
+        "longitude": -76.9941432
+    },
+    "Capt. James Daly Elementary": {
+        "latitude": 39.18967751549919,
+        "longitude": -77.23203366385789
+    },
+    "Carderock Springs Elem School": {
+        "latitude": 38.9830998,
+        "longitude": -77.1718859193879
+    },
+    "Carl Sandburg Learning Center": {
+        "latitude": 39.0762196,
+        "longitude": -77.1102568
+    },
+    "Cashell Elementary School": {
+        "latitude": 39.1378435,
+        "longitude": -77.08623977646963
+    },
+    "Cedar Grove Elementary School": {
+        "latitude": 39.2497906,
+        "longitude": -77.2329912
+    },
+    "Chevy Chase Elementary School": {
+        "latitude": 38.978802400000006,
+        "longitude": -77.0801215801344
+    },
+    "Clarksburg Elementary School": {
+        "latitude": 39.23648905,
+        "longitude": -77.28167328777528
+    },
+    "Clarksburg High School": {
+        "latitude": 39.227041400000005,
+        "longitude": -77.26679990829882
+    },
+    "Clearspring Elementary School": {
+        "latitude": 39.2664544,
+        "longitude": -77.206779
+    },
+    "Clopper Mill Elementary School": {
+        "latitude": 39.15861735,
+        "longitude": -77.2618721391255
+    },
+    "Cloverly Elementary School": {
+        "latitude": 39.1076081,
+        "longitude": -76.9941433
+    },
+    "Col. Zadok Magruder High Schl": {
+        "latitude": 39.13139025379308,
+        "longitude": -77.11849957391877
+    },
+    "Cold Spring Elementary School": {
+        "latitude": 39.05920745,
+        "longitude": -77.18878707070314
+    },
+    "College Gardens Elem School": {
+        "latitude": 39.1028858,
+        "longitude": -77.1630359
+    },
+    "Cresthaven Elementary School": {
+        "latitude": 39.0275141,
+        "longitude": -76.9882561
+    },
+    "Damascus Elementary School": {
+        "latitude": 39.285522549999996,
+        "longitude": -77.2112996483219
+    },
+    "Damascus High School": {
+        "latitude": 39.2827324,
+        "longitude": -77.20944634106553
+    },
+    "Darnestown Elementary School": {
+        "latitude": 39.1021427,
+        "longitude": -77.2848017
+    },
+    "Diamond Elementary School": {
+        "latitude": 39.13608565,
+        "longitude": -77.23918957667479
+    },
+    "Dr. Charles Drew Elem School": {
+        "latitude": 39.0914223,
+        "longitude": -76.9869512
+    },
+    "Dr. Martin Luther King, Jr. MS": {
+        "latitude": 39.18069849450579,
+        "longitude": -77.2845725292239
+    },
+    "Dr. Sally K. Ride Elem School": {
+        "latitude": 39.2066113,
+        "longitude": -77.2372634
+    },
+    "DuFief Elementary School": {
+        "latitude": 39.1020524,
+        "longitude": -77.2372041
+    },
+    "Earle B. Wood Middle School": {
+        "latitude": 39.09337008852708,
+        "longitude": -77.10748862462411
+    },
+    "East Silver Spring Elem School": {
+        "latitude": 38.99250985,
+        "longitude": -77.01501548613923
+    },
+    "Eastern Middle School": {
+        "latitude": 39.012125049999995,
+        "longitude": -77.00035738935651
+    },
+    "Fairland Elementary School": {
+        "latitude": 39.090598299999996,
+        "longitude": -76.95645839953525
+    },
+    "Fallsmead Elementary School": {
+        "latitude": 39.0778863,
+        "longitude": -77.176647
+    },
+    "Farmland Elementary School": {
+        "latitude": 39.0472159,
+        "longitude": -77.14532594652394
+    },
+    "Fields Road Elementary School": {
+        "latitude": 39.11916025,
+        "longitude": -77.21549276704127
+    },
+    "Flora M. Singer Elem School": {
+        "latitude": 39.018974650000004,
+        "longitude": -77.05466669984524
+    },
+    "Flower Hill Elementary School": {
+        "latitude": 39.1589793,
+        "longitude": -77.17115404921128
+    },
+    "Flower Valley Elem School": {
+        "latitude": 39.1056636,
+        "longitude": -77.0933122
+    },
+    "Forest Knolls Elem School": {
+        "latitude": 39.033258149999995,
+        "longitude": -77.02008872315733
+    },
+    "Forest Oak Middle School": {
+        "latitude": 39.1535925,
+        "longitude": -77.1846011
+    },
+    "Fox Chapel Elementary School": {
+        "latitude": 39.1719167,
+        "longitude": -77.24282
+    },
+    "Francis Scott Key Middle Schl": {
+        "latitude": 39.02804285,
+        "longitude": -76.99326112735034
+    },
+    "Gaithersburg Elementary School": {
+        "latitude": 39.143632,
+        "longitude": -77.19184472989227
+    },
+    "Gaithersburg High School": {
+        "latitude": 39.1352285,
+        "longitude": -77.1941392
+    },
+    "Gaithersburg Middle School": {
+        "latitude": 39.1439153,
+        "longitude": -77.18780825861236
+    },
+    "Galway Elementary School": {
+        "latitude": 39.0640327,
+        "longitude": -76.9456545
+    },
+    "Garrett Park Elementary School": {
+        "latitude": 39.033024999999995,
+        "longitude": -77.0967074924631
+    },
+    "Georgian Forest Elem School": {
+        "latitude": 39.0753864,
+        "longitude": -77.0605335
+    },
+    "Germantown Elementary School": {
+        "latitude": 39.169992199999996,
+        "longitude": -77.27632328955598
+    },
+    "Glen Haven Elementary School": {
+        "latitude": 39.033737099999996,
+        "longitude": -77.03732747580173
+    },
+    "Glenallan Elementary School": {
+        "latitude": 39.0614074,
+        "longitude": -77.0416666506222
+    },
+    "Goshen Elementary School": {
+        "latitude": 39.1939657,
+        "longitude": -77.179495
+    },
+    "Great Seneca Creek Elem School": {
+        "latitude": 39.15270855,
+        "longitude": -77.26991616834036
+    },
+    "Greencastle Elementary School": {
+        "latitude": 39.0798309,
+        "longitude": -76.9441419
+    },
+    "Greenwood Elementary School": {
+        "latitude": 39.165396349999995,
+        "longitude": -77.06410224851777
+    },
+    "Hallie Wells Middle Sch": {
+        "latitude": 39.23253505,
+        "longitude": -77.24019740696576
+    },
+    "Harmony Hills Elem School": {
+        "latitude": 39.0767753,
+        "longitude": -77.0755338
+    },
+    "Herbert Hoover Middle School": {
+        "latitude": 39.0441532,
+        "longitude": -77.17834294039305
+    },
+    "Highland Elementary School": {
+        "latitude": 39.05142025,
+        "longitude": -77.06424040826477
+    },
+    "Highland View Elem School": {
+        "latitude": 39.004211749999996,
+        "longitude": -77.01035642012002
+    },
+    "Jackson Road Elem School": {
+        "latitude": 39.0564979,
+        "longitude": -76.9921987
+    },
+    "James Hubert Blake High School": {
+        "latitude": 39.11336105,
+        "longitude": -77.01763923422484
+    },
+    "JoAnn Leleck ES at Broad Acres": {
+        "latitude": 39.009324106218635,
+        "longitude": -76.9851307310521
+    },
+    "John F. Kennedy High School": {
+        "latitude": 39.06567965,
+        "longitude": -77.03917247993337
+    },
+    "John Poole Middle School": {
+        "latitude": 39.1260835,
+        "longitude": -77.4097505
+    },
+    "John T. Baker Middle School": {
+        "latitude": 39.2734998,
+        "longitude": -77.2190445
+    },
+    "Jones Lane Elementary School": {
+        "latitude": 39.1034072,
+        "longitude": -77.2660759
+    },
+    "Judith A. Resnik Elem School": {
+        "latitude": 39.181219078844926,
+        "longitude": -77.15191930041397
+    },
+    "Julius West Middle School": {
+        "latitude": 39.07657865,
+        "longitude": -77.16477945334299
+    },
+    "Kemp Mill Elementary School": {
+        "latitude": 39.0434425,
+        "longitude": -77.0169213
+    },
+    "Kensington-Parkwood Elem Schl": {
+        "latitude": 39.0219814,
+        "longitude": -77.0950220136931
+    },
+    "Kingsview Middle School": {
+        "latitude": 39.16530795,
+        "longitude": -77.2843915020525
+    },
+    "Lake Seneca Elementary School": {
+        "latitude": 39.1834179,
+        "longitude": -77.2838736
+    },
+    "Lakelands Park Middle School": {
+        "latitude": 39.1154598,
+        "longitude": -77.2317945
+    },
+    "Lakewood Elementary School": {
+        "latitude": 39.0876083,
+        "longitude": -77.1935919
+    },
+    "Laytonsville Elementary School": {
+        "latitude": 39.2065476,
+        "longitude": -77.1406271
+    },
+    "Little Bennett Elementary Schl": {
+        "latitude": 39.2462094,
+        "longitude": -77.27553791218443
+    },
+    "Lois P. Rockwell Elementary": {
+        "latitude": 39.2563437,
+        "longitude": -77.2147864
+    },
+    "Longview School": {
+        "latitude": 39.150368400000005,
+        "longitude": -77.29274639693934
+    },
+    "Lucy V. Barnsley Elementary": {
+        "latitude": 39.093947799999995,
+        "longitude": -77.10384267297604
+    },
+    "Luxmanor Elementary School": {
+        "latitude": 39.044512999999995,
+        "longitude": -77.12727993463963
+    },
+    "Maryvale Elementary School": {
+        "latitude": 39.0917765,
+        "longitude": -77.13742463140778
+    },
+    "Meadow Hall Elementary School": {
+        "latitude": 39.084300400000004,
+        "longitude": -77.11618707931837
+    },
+    "Mill Creek Towne Elem School": {
+        "latitude": 39.1466914,
+        "longitude": -77.153842
+    },
+    "Monocacy Elementary School": {
+        "latitude": 39.225360300000006,
+        "longitude": -77.39372489737356
+    },
+    "Montgomery Blair High School": {
+        "latitude": 39.01829705,
+        "longitude": -77.01147200465839
+    },
+    "Montgomery Knolls Elem School": {
+        "latitude": 39.00559255,
+        "longitude": -76.99327069010565
+    },
+    "Montgomery Village Middle Schl": {
+        "latitude": 39.1720144,
+        "longitude": -77.2095721
+    },
+    "Neelsville Middle School": {
+        "latitude": 39.194139,
+        "longitude": -77.24118546682371
+    },
+    "New Hampshire Estates ES": {
+        "latitude": 38.9970545,
+        "longitude": -76.9905316
+    },
+    "Newport Mill Middle School": {
+        "latitude": 39.0416589,
+        "longitude": -77.0682004363054
+    },
+    "North Bethesda Middle School": {
+        "latitude": 39.0053914,
+        "longitude": -77.12509245621675
+    },
+    "North Chevy Chase Elem School": {
+        "latitude": 38.9985982,
+        "longitude": -77.07300989937023
+    },
+    "Northwest High School": {
+        "latitude": 39.151084499999996,
+        "longitude": -77.27966017188547
+    },
+    "Northwood High School": {
+        "latitude": 39.0356898,
+        "longitude": -77.0224779
+    },
+    "Oak View Elementary School": {
+        "latitude": 39.00460115,
+        "longitude": -77.00199221107817
+    },
+    "Oakland Terrace Elem School": {
+        "latitude": 39.0288495,
+        "longitude": -77.05788756307845
+    },
+    "Odessa Shannon Middle Schl": {
+        "latitude": 39.0498392261361,
+        "longitude": -77.03013437480065
+    },
+    "Olney Elementary School": {
+        "latitude": 39.14943025,
+        "longitude": -77.06863764730764
+    },
+    "Paint Branch High School": {
+        "latitude": 39.087253950000004,
+        "longitude": -76.94742144099126
+    },
+    "Parkland Middle School": {
+        "latitude": 39.084172949999996,
+        "longitude": -77.09181026572236
+    },
+    "Pine Crest Elementary School": {
+        "latitude": 39.0212738,
+        "longitude": -77.00497441379842
+    },
+    "Piney Branch Elementary School": {
+        "latitude": 38.9822911,
+        "longitude": -77.00947679477743
+    },
+    "Poolesville Elementary School": {
+        "latitude": 39.14456185,
+        "longitude": -77.40696481709492
+    },
+    "Poolesville High School": {
+        "latitude": 39.14233995,
+        "longitude": -77.41769314805433
+    },
+    "Potomac Elementary School": {
+        "latitude": 39.0216804,
+        "longitude": -77.2131368
+    },
+    "Quince Orchard High School": {
+        "latitude": 39.116303849999994,
+        "longitude": -77.25513651669436
+    },
+    "Rachel Carson Elem School": {
+        "latitude": 39.116936550000005,
+        "longitude": -77.24664230934019
+    },
+    "Redland Middle School": {
+        "latitude": 39.1409232,
+        "longitude": -77.13149882816072
+    },
+    "Richard Montgomery High School": {
+        "latitude": 39.07929905,
+        "longitude": -77.14679044978047
+    },
+    "Ridgeview Middle School": {
+        "latitude": 39.12809165,
+        "longitude": -77.249864154395
+    },
+    "Ritchie Park Elementary School": {
+        "latitude": 39.06306865,
+        "longitude": -77.17438959613204
+    },
+    "Robert Frost Middle School": {
+        "latitude": 39.077130999999994,
+        "longitude": -77.18704992715573
+    },
+    "Roberto Clemente Middle School": {
+        "latitude": 39.165943049999996,
+        "longitude": -77.24825840536826
+    },
+    "Rock Creek Forest Elementary": {
+        "latitude": 38.9922877,
+        "longitude": -77.05100347923982
+    },
+    "Rock Creek Valley Elem School": {
+        "latitude": 39.0828862,
+        "longitude": -77.1024789
+    },
+    "Rock Terrace School": {
+        "latitude": 39.0934652,
+        "longitude": -77.15934305010558
+    },
+    "Rock View Elementary School": {
+        "latitude": 39.0395045,
+        "longitude": -77.07698343968843
+    },
+    "Rockville High School": {
+        "latitude": 39.0868715,
+        "longitude": -77.11876365972549
+    },
+    "Rocky Hill Middle School": {
+        "latitude": 39.22259965,
+        "longitude": -77.26414269849226
+    },
+    "Rolling Terrace Elem School": {
+        "latitude": 38.99521895,
+        "longitude": -76.99705682973435
+    },
+    "Ronald McNair Elem": {
+        "latitude": 39.170350496948735,
+        "longitude": -77.29029773504115
+    },
+    "Rosa M. Parks Middle School": {
+        "latitude": 39.1718489,
+        "longitude": -77.0813535
+    },
+    "Roscoe R. Nix Elementary": {
+        "latitude": 39.017500202345516,
+        "longitude": -76.98847352418875
+    },
+    "Rosemary Hills Elem School": {
+        "latitude": 39.0013086,
+        "longitude": -77.04520375303144
+    },
+    "Rosemont Elementary School": {
+        "latitude": 39.125556,
+        "longitude": -77.1851872
+    },
+    "S. Christa McAuliffe ES": {
+        "latitude": 39.167762792338316,
+        "longitude": -77.26081739455466
+    },
+    "Sargent Shriver Elem School": {
+        "latitude": 39.0618041,
+        "longitude": -77.0798197
+    },
+    "Seneca Valley High School": {
+        "latitude": 39.1751066,
+        "longitude": -77.2644278
+    },
+    "Sequoyah Elementary School": {
+        "latitude": 39.13905055,
+        "longitude": -77.11766018331753
+    },
+    "Seven Locks Elementary School": {
+        "latitude": 39.0123318,
+        "longitude": -77.1610905
+    },
+    "Shady Grove Middle School": {
+        "latitude": 39.14302045,
+        "longitude": -77.16254732940965
+    },
+    "Sherwood Elementary School": {
+        "latitude": 39.1495517,
+        "longitude": -77.033589
+    },
+    "Sherwood High School": {
+        "latitude": 39.146812350000005,
+        "longitude": -77.01870702622267
+    },
+    "Silver Creek Middle School": {
+        "latitude": 39.016487,
+        "longitude": -77.07442434035497
+    },
+    "Silver Spring International MS": {
+        "latitude": 38.9999561,
+        "longitude": -77.0151921
+    },
+    "Sligo Creek Elementary School": {
+        "latitude": 39.0007242,
+        "longitude": -77.01461452609308
+    },
+    "Sligo Middle School": {
+        "latitude": 39.027415000000005,
+        "longitude": -77.03279459145142
+    },
+    "Snowden Farm ES": {
+        "latitude": 39.2486935,
+        "longitude": -77.2759899
+    },
+    "Somerset Elementary School": {
+        "latitude": 38.96889,
+        "longitude": -77.09220622577405
+    },
+    "South Lake Elementary School": {
+        "latitude": 39.1556627,
+        "longitude": -77.1972039
+    },
+    "Spark M. Matsunaga Elem School": {
+        "latitude": 39.15106815,
+        "longitude": -77.29326574956579
+    },
+    "Springbrook High School": {
+        "latitude": 39.05825395,
+        "longitude": -77.0068677603539
+    },
+    "Stedwick Elementary School": {
+        "latitude": 39.1739432,
+        "longitude": -77.2115818
+    },
+    "Stephen Knolls School": {
+        "latitude": 39.0339179,
+        "longitude": -77.05167523835851
+    },
+    "Stone Mill Elementary School": {
+        "latitude": 39.0921432,
+        "longitude": -77.2146664
+    },
+    "Stonegate Elementary School": {
+        "latitude": 39.09931294733403,
+        "longitude": -77.01614965900558
+    },
+    "Strathmore Elementary School": {
+        "latitude": 39.085733250000004,
+        "longitude": -77.06547939875969
+    },
+    "Strawberry Knoll Elem School": {
+        "latitude": 39.1655592,
+        "longitude": -77.1821009
+    },
+    "Summit Hall Elementary School": {
+        "latitude": 39.127343749999994,
+        "longitude": -77.1952718550321
+    },
+    "Takoma Park Elementary School": {
+        "latitude": 38.982376099999996,
+        "longitude": -77.012222673498
+    },
+    "Takoma Park Middle School": {
+        "latitude": 38.98584755,
+        "longitude": -77.01241638644495
+    },
+    "Thomas S. Wootton High School": {
+        "latitude": 39.07622465,
+        "longitude": -77.18359465317218
+    },
+    "Thomas W. Pyle Middle School": {
+        "latitude": 38.989508150000006,
+        "longitude": -77.13158408876782
+    },
+    "Thurgood Marshall Elem School": {
+        "latitude": 39.1257267,
+        "longitude": -77.2601635
+    },
+    "Tilden Middle School": {
+        "latitude": 39.03808415,
+        "longitude": -77.12124399489865
+    },
+    "Travilah Elementary School": {
+        "latitude": 39.08258975,
+        "longitude": -77.24855265543435
+    },
+    "Twinbrook Elementary School": {
+        "latitude": 39.06863335,
+        "longitude": -77.12029801332486
+    },
+    "Viers Mill Elementary School": {
+        "latitude": 39.0485932,
+        "longitude": -77.08512845495093
+    },
+    "Walt Whitman High School": {
+        "latitude": 38.98198965,
+        "longitude": -77.12737588237053
+    },
+    "Walter Johnson High School": {
+        "latitude": 39.02506835,
+        "longitude": -77.13010499631119
+    },
+    "Washington Grove Elem School": {
+        "latitude": 39.13215965,
+        "longitude": -77.17755347247163
+    },
+    "Waters Landing Elementary Schl": {
+        "latitude": 39.1890955,
+        "longitude": -77.2684695
+    },
+    "Watkins Mill Elementary School": {
+        "latitude": 39.1668499,
+        "longitude": -77.2113558
+    },
+    "Watkins Mill High School": {
+        "latitude": 39.18416,
+        "longitude": -77.21493343070475
+    },
+    "Wayside Elementary School": {
+        "latitude": 39.047978400000005,
+        "longitude": -77.20632023530843
+    },
+    "Weller Road Elementary School": {
+        "latitude": 39.065698850000004,
+        "longitude": -77.06712897193557
+    },
+    "Westbrook Elementary School": {
+        "latitude": 38.9581665,
+        "longitude": -77.1025055
+    },
+    "Westland Middle School": {
+        "latitude": 38.9603245,
+        "longitude": -77.1088727
+    },
+    "Westover Elementary School": {
+        "latitude": 39.075208849999996,
+        "longitude": -77.01842908608084
+    },
+    "Wheaton High School": {
+        "latitude": 39.0598412,
+        "longitude": -77.0671834
+    },
+    "Wheaton Woods Elementary Schl": {
+        "latitude": 39.0678287,
+        "longitude": -77.08969935256476
+    },
+    "Whetstone Elementary School": {
+        "latitude": 39.1715456,
+        "longitude": -77.1964839
+    },
+    "White Oak Middle School": {
+        "latitude": 39.0564979,
+        "longitude": -76.9952543
+    },
+    "William B. Gibbs, Jr. ES": {
+        "latitude": 39.20522538613769,
+        "longitude": -77.25996163754584
+    },
+    "William H. Farquhar Middle Sch": {
+        "latitude": 39.1358961,
+        "longitude": -77.0432089330262
+    },
+    "William Tyler Page ES": {
+        "latitude": 38.963510549999995,
+        "longitude": -77.09318341090298
+    },
+    "Wilson Wims Elementary School": {
+        "latitude": 39.23719215,
+        "longitude": -77.2613485171531
+    },
+    "Winston Churchill High School": {
+        "latitude": 39.0433602,
+        "longitude": -77.17370543674369
+    },
+    "Wood Acres Elementary School": {
+        "latitude": 38.96744775,
+        "longitude": -77.11833443659364
+    },
+    "Woodfield Elementary School": {
+        "latitude": 39.2533108,
+        "longitude": -77.1978362
+    },
+    "Woodlin Elementary School": {
+        "latitude": 39.006378049999995,
+        "longitude": -77.04737513889245
+    },
+    "Wyngate Elementary School": {
+        "latitude": 39.0092747,
+        "longitude": -77.128201
+    }
+}
