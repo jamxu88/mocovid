@@ -5,7 +5,10 @@ class StackedBarChart {
             chart: {
                 type: 'bar',
                 stacked: true,
-                height: 5000
+                height: 5000,
+                animations: {
+                    enabled: false
+                }
             },
             plotOptions: {
                 bar: {
