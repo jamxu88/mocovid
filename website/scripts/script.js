@@ -5,9 +5,14 @@ var data,StackedChart
     StackedChart._setData(data)
     StackedChart._createChart()
     console.log('Data Loaded')
+
     document.getElementById('search').addEventListener('keyup', e => {
-        StackedChart.filter = document.getElementById('search').value.toLowerCase()
-        StackedChart._setData(data)
-        StackedChart._updateChart()
+        filter()
     })
+    
 })();
+function filter() {
+    StackedChart.filter = document.getElementById('search').value.toLowerCase()
+    StackedChart._setData(data)
+    StackedChart._updateChart()
+}
