@@ -9,4 +9,7 @@
 
 ### Data
 All data we use can be found in the `server` directory of this repo. Anyone is free to use this data in their own projects. It is all sourced and parsed directly from the reports found on the MCPS Covid dashboard, updated once a day.
+<br>
+<br>
+We know that data is important, and therefore it must be accurate. If there are any percieved issues with the data or inaccuracies to fix, feel free to create an issue and we will address it.
 ### Support this project
