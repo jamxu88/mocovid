@@ -39,3 +39,8 @@ div {
 a {
 	color:#77efff;
 }
+
+.apexcharts-tooltip {
+    background: #f3f3f3;
+    color: orange;
+  }
