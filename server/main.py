@@ -17,6 +17,7 @@ popvalues = list(population.values())
 directory = ("data")
 dashboarddata = []
 dashboarddata10days = []
+dates = []
 days = sorted(os.listdir(directory))[::-1][:10] #taking first 10 days for dashboard
 for filename in days:
     if filename.endswith(".xlsx"):
@@ -29,6 +30,7 @@ for filename in days:
 alldays = sorted(os.listdir(directory))[::-1]
 for filename in alldays:
     if filename.endswith(".xlsx"):
+        dates.append(filename[:len(filename)-5])
         df = pd.read_excel(f"{directory}/{filename}")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata.append(df)
@@ -82,6 +84,29 @@ result = covidf.to_json(orient="records")
 parsed = json.loads(result)
 with open('dashboard.json', "w") as outputfile:
     outputfile.write(json.dumps(parsed, indent=4))
+
+
+#date information
+datejson = {}
+dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
+
+for dateindex in range(len(dates)):
+    datejson[dates[dateindex]] = json.loads(dashboarddata[dateindex].to_json(orient="records"))
+
+datejson = {
+    key:
+        [val[subkey]
+            for subkey in range(len(val))
+                if (isinstance(val[subkey]["Grand Total"], int))
+                    and (isinstance(val[subkey]["Staff"], int))
+                    and (isinstance(val[subkey]["Student"], int))
+        ]
+    for key, val in datejson.items()
+}
+
+with open('dateinfo.json', "w") as outputfile:
+    outputfile.write(json.dumps(datejson, indent=4))
+
 
 
 
