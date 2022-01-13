@@ -22,7 +22,7 @@ var total_data,StackedChart,time_data
 function search() {
     var getUrl = window.location;
     var baseUrl = getUrl .protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/')[1];
-    window.location = baseUrl+`/?s=${document.getElementById('search').value}`
+    window.location = baseUrl+`?s=${document.getElementById('search').value}`
 }
 function check() {
     var params = new URLSearchParams(window.location.search)
