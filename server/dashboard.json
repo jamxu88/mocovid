@@ -1751,6 +1751,23 @@
         "avg_total_cases_per_day": 6.8888888889
     },
     {
+        "school": "MacDonald Knolls Early Childhood Center",
+        "population": 100,
+        "staff_cases_over_10_days": 0,
+        "avg_staff_cases_over_10_days": 0.0,
+        "staff_cases_total": 0,
+        "avg_staff_cases_per_day": 0.0,
+        "student_cases_over_10_days": 4,
+        "avg_student_cases_over_10_days": 0.4444444444,
+        "student_cases_total": 4,
+        "avg_student_cases_per_day": 0.4444444444,
+        "active_cases_over_10_days": 4,
+        "avg_total_over_10_days": 0.4444444444,
+        "active_percentages": "4.00%",
+        "total_cases": 4,
+        "avg_total_cases_per_day": 0.4444444444
+    },
+    {
         "school": "Maryvale Elementary School",
         "population": 715,
         "staff_cases_over_10_days": 7,

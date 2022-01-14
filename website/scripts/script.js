@@ -11,6 +11,7 @@ var total_data,StackedChart,time_data
     StackedChart._setData(total_data)
     PieChart._setData(total_data)
     HeatMap._setData(time_data)
+    LineChart._setData(schooldate_data)
     
     console.log('Data Loaded')
     check()

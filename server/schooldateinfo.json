@@ -5101,6 +5101,26 @@
             "Active Cases": 62
         }
     },
+    "MacDonald Knolls Early Childhood Center": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 2
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 3
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 4
+        }
+    },
     "Maryvale Elementary School": {
         "2022-01-05": {
             "Staff": 2,

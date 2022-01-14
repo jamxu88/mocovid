@@ -7,7 +7,7 @@ class LineChart {
             series: [
                 {
                   name: "Active Cases",
-                  data: [12, 11, 14, 18, 17, 13, 150]
+                  data: []
                 }
               ],
                 chart: {
@@ -68,50 +68,33 @@ class LineChart {
               }
         }
     }
-    // _setData(data) {
-    //     var fdata = {}
-    //     var keys = Object.keys(data).reverse()
-    //     keys.forEach(key => {
-    //         if(this.filter) {
-    //             data[key].forEach(school => {
-    //                 if(school["School"] != 'TOTAL' && school["School"] != 'Grand Total' && school['School'].toLowerCase().includes(this.filter)) {
-    //                     !fdata[school["School"]] ? fdata[school["School"]] = {} : fdata[school["School"]] = fdata[school["School"]];
-    //                     fdata[school["School"]][key] = school["Grand Total"]
-    //                 }
-                    
-    //             })
-    //         }else {
-    //             data[key].forEach(school => {
-    //                 if(school["School"] != 'TOTAL' && school["School"] != 'Grand Total') {
-    //                     !fdata[school["School"]] ? fdata[school["School"]] = {} : fdata[school["School"]] = fdata[school["School"]];
-    //                     fdata[school["School"]][key] = school["Grand Total"]
-    //                 }
-                    
-    //             })
-    //         }
-            
-    //     })
-
-    //     var akeys = Object.keys(fdata).reverse()
-    //     var series = []
-    //     akeys.forEach(key => {
-    //         var data = []
-    //         keys.forEach(date => {
-    //             data.push({
-    //                 x:date,
-    //                 y:fdata[key][date] | 0
-    //             })
-    //         })
-    //         series.push({
-    //             name:key,
-    //             data: data
-    //         })
-    //     })
-        
-    //     this.options.series = series
-    //     this.options.chart.height = this.options.series.length * 30 < 200 ? 200 : this.options.series.length * 30
-    //     this.options.chart.width = '80%'
-    // }
+    _setData(data){
+      var fdata = []
+      var sumofdates = {}
+      var schools = Object.keys(data)
+      schools.forEach(key => {
+        if (key.toLowerCase().includes(this.filter)) {
+          Object.keys(data[key]).forEach(date => {
+            fdata.push(data[key][date]["Active Cases"])
+            console.log("school specific")
+          })
+        } else {
+          Object.keys(data[key]).forEach(date => {
+            if (date in sumofdates){
+              sumofdates[date] += data[key][date]["Active Cases"]
+            } else {
+              sumofdates[date] = data[key][date]["Active Cases"]
+            }
+          })
+          fdata = Object.values(sumofdates)
+          console.log("overall")
+        }
+      })
+      console.log(fdata)
+      this.options.series = fdata
+      this.options.chart.height = this.options.series.length * 30 < 200 ? 200 : this.options.series.length * 30
+      this.options.chart.width = '80%'
+    }
     _createChart() {
         this.chart = null;
         this.chart = new ApexCharts(document.querySelector("#linechart"), this.options);
