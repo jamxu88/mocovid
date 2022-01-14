@@ -35,9 +35,6 @@ class PieChart {
           tooltip: {
             fillSeriesColor: true
           },
-          animations: {
-              enabled: false
-          },
           legend: {
             show: false
           }
