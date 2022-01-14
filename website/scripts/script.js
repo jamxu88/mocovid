@@ -5,6 +5,7 @@ var total_data,StackedChart,time_data
     StackedChart = new StackedBarChart()
     PieChart = new PieChart()
     HeatMap = new Heatmap()
+    LineChart = new LineChart()
 
     StackedChart._setData(total_data)
     PieChart._setData(total_data)
@@ -38,4 +39,6 @@ function check() {
     if(params.get('s')) PieChart.filter = params.get('s').toLocaleLowerCase();
     PieChart._setData(total_data)
     PieChart._createChart()
+
+    LineChart._createChart()
 }

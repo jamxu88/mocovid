@@ -108,6 +108,20 @@ datejson = {
 with open('dateinfo.json', "w") as outputfile:
     outputfile.write(json.dumps(datejson, indent=4))
 
+#optimize this at a later date
+schooldateinfo = {}
+for school in schools:
+    temp = {}
+    for date in dates:
+        for schoolindex in range(len(datejson[date])):
+            if datejson[date][schoolindex]["School"] == school:
+                schooldatafordate = datejson[date][schoolindex]
+                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"]}
+    schooldateinfo[school] = temp
+
+with open("schooldateinfo.json", "w") as outputfile:
+    outputfile.write(json.dumps(schooldateinfo, indent=4))
+
 
 
 
