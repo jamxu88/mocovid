@@ -2975,6 +2975,23 @@
         "avg_total_cases_per_day": 7.0
     },
     {
+        "school": "Thomas Edison High School of Technology",
+        "population": 840,
+        "staff_cases_over_10_days": 0,
+        "avg_staff_cases_over_10_days": 0.0,
+        "staff_cases_total": 0,
+        "avg_staff_cases_per_day": 0.0,
+        "student_cases_over_10_days": 17,
+        "avg_student_cases_over_10_days": 1.8888888889,
+        "student_cases_total": 17,
+        "avg_student_cases_per_day": 1.8888888889,
+        "active_cases_over_10_days": 17,
+        "avg_total_over_10_days": 1.8888888889,
+        "active_percentages": "2.02%",
+        "total_cases": 17,
+        "avg_total_cases_per_day": 1.8888888889
+    },
+    {
         "school": "Thomas S. Wootton High School",
         "population": 2132,
         "staff_cases_over_10_days": 6,
