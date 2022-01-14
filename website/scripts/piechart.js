@@ -10,10 +10,10 @@ class PieChart {
               enabled: false
             }
           },
-          colors: ['#36BE32', '#CD4C31'],
+          colors: ['#7992a6', '#013a66'],
           labels: ["Negative", "Positive"],
           fill: {
-            colors: ['#41EC3C', '#F75836']
+            colors: ['#8494a1', '#013a66'],
           },
           plotOptions: {
             pie: {

@@ -69,10 +69,12 @@ class StackedBarChart {
         })
         arr = [{
             name: 'Staff Cases',
-            data: staffCaseArray
+            data: staffCaseArray,
+            color:'#013a66'
         }, {
             name: 'Student Cases',
-            data: studentCaseArray
+            data: studentCaseArray,
+            color:'#8494a1'
         }]
         this.options.chart.height = schoolList.length * 25 < 300 ? 300 : schoolList.length * 25
         this.options.series = arr
