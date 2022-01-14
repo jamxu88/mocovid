@@ -2,7 +2,7 @@ var total_data,StackedChart,time_data
 (async () => {
     total_data = await fetch('https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dashboard.json').then(resp => resp.json())
     time_data = await fetch('https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dateinfo.json').then(resp => resp.json())
-    schooldate_data = await fetch ('https://github.com/jamxu88/mocovid/blob/main/server/schooldateinfo.json').then(resp => resp.json())
+    schooldate_data = await fetch ('https://raw.githubusercontent.com/jamxu88/mocovid/main/server/schooldateinfo.json').then(resp => resp.json())
     StackedChart = new StackedBarChart()
     PieChart = new PieChart()
     HeatMap = new Heatmap()
