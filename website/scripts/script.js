@@ -41,5 +41,5 @@ function check() {
     PieChart._setData(total_data)
     PieChart._createChart()
 
-    LineChart._createChart()
+    //LineChart._createChart()
 }
