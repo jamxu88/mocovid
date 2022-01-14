@@ -112,11 +112,17 @@ with open('dateinfo.json', "w") as outputfile:
 schooldateinfo = {}
 for school in schools:
     temp = {}
-    for date in dates:
+    datastaff = []
+    datastudent = []
+    datagrandtotal = []
+    for date in dates[:10][::-1]:
         for schoolindex in range(len(datejson[date])):
             if datejson[date][schoolindex]["School"] == school:
                 schooldatafordate = datejson[date][schoolindex]
-                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"]}
+                datastaff.append(schooldatafordate["Staff"])
+                datastudent.append(schooldatafordate["Student"])
+                datagrandtotal.append(schooldatafordate["Grand Total"])
+                temp[date] = {"Staff": sum(datastaff), "Student": sum(datastudent) , "Grand Total": sum(datagrandtotal)}
     schooldateinfo[school] = temp
 
 with open("schooldateinfo.json", "w") as outputfile:
