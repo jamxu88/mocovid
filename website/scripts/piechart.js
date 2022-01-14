@@ -74,6 +74,7 @@ class PieChart {
         console.log('Chart Rendered')
     }
     _updateChart() {
+        document.getElementById('loading').style = 'display:none'
         this.chart.updateOptions(this.options)
     }
 }
