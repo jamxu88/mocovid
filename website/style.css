@@ -23,6 +23,15 @@ body {
 	padding: 2rem;
 }
 
+#search {
+	width: 15rem;
+	height: 2rem;
+}
+
+button {
+	height: 2rem;
+}
+
 div {
 	font-family: 'Open Sans', sans-serif;
 }

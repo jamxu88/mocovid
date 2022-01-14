@@ -55,7 +55,6 @@ class StackedBarChart {
         var schoolList = []
         data.forEach(school => {
             if(this.filter) {
-                console.log(this.filter)
                 if(school.school.toLowerCase().includes(this.filter)) {
                     staffCaseArray.push(school.staff_cases_over_10_days)
                     studentCaseArray.push(school.student_cases_over_10_days)

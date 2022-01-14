@@ -4,7 +4,7 @@ class PieChart {
         this.options = {
             series: [25, 15],
             chart: {
-            width: '40%',
+            width: '30%',
             type: 'pie',
             animations: {
               enabled: false
@@ -23,7 +23,7 @@ class PieChart {
             }
           },
           title: {
-            text: "Active COVID cases in MCPS (10 day period)",
+            text: `Active COVID cases (10 day period)`,
             align: 'center'
           },
           dataLabels: {
@@ -70,6 +70,7 @@ class PieChart {
         this.chart = null;
         this.chart = new ApexCharts(document.querySelector("#chart"), this.options);
         this.chart.render()
+        document.getElementById('loading').style = 'display:none'
         console.log('Chart Rendered')
     }
     _updateChart() {
