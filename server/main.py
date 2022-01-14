@@ -109,20 +109,21 @@ with open('dateinfo.json', "w") as outputfile:
     outputfile.write(json.dumps(datejson, indent=4))
 
 #optimize this at a later date
+
+#bad logic rn
 schooldateinfo = {}
 for school in schools:
     temp = {}
     datastaff = []
     datastudent = []
     datagrandtotal = []
-    for date in dates[:10][::-1]:
+    for date in dates[::-1]:
         for schoolindex in range(len(datejson[date])):
             if datejson[date][schoolindex]["School"] == school:
+                #include new staff, student, and grand total cases
+                #total cases too
                 schooldatafordate = datejson[date][schoolindex]
-                datastaff.append(schooldatafordate["Staff"])
-                datastudent.append(schooldatafordate["Student"])
-                datagrandtotal.append(schooldatafordate["Grand Total"])
-                temp[date] = {"Staff": sum(datastaff), "Student": sum(datastudent) , "Grand Total": sum(datagrandtotal)}
+                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:10]) + schooldatafordate["Grand Total"]}
     schooldateinfo[school] = temp
 
 with open("schooldateinfo.json", "w") as outputfile:
