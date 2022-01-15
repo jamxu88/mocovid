@@ -1,4 +1,3 @@
-// TODO create json in python to get date format in {school: {date: data, date1: data1, ...}, ...}
 class LineChart {
     constructor() {
         this.filter = null
@@ -7,7 +6,7 @@ class LineChart {
             series: [
                 {
                   data: [],
-                  name: "Active Cases"
+                  name: undefined
                 }
               ],
                 chart: {
@@ -33,7 +32,7 @@ class LineChart {
                 curve: 'smooth'
               },
               title: {
-                text: 'Active Cases in ',
+                text: undefined,
                 align: 'left'
               },
               grid: {
@@ -83,6 +82,8 @@ class LineChart {
             })
           }
           fdata = Object.values(sumofdates)
+          this.options.series[0].name = "Active Cases in " + toTitleCase(this.filter)
+          this.options.title.text = "Active Cases in " + toTitleCase(this.filter)
         })
       } else {
         schools.forEach(key =>
@@ -94,9 +95,14 @@ class LineChart {
             }
           }))
           fdata = Object.values(sumofdates)
+          this.options.series[0].name = "Active Cases in MCPS"
+          this.options.title.text = "Active Cases in MCPS"
+          console.log("hi")
+          console.log(this.options.series[0].name)
       }
       this.options.series[0].data = fdata
       this.options.xaxis.categories = dates
+      
       console.log(this.options)
       console.log(this.options.xaxis.categories)
       this.options.chart.height = 500
@@ -111,4 +117,10 @@ class LineChart {
     _updateChart() {
         this.chart.updateOptions(this.options)
     }
+}
+
+function toTitleCase(str) {
+  return str.replace(/\w\S*/g, function(txt){
+      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  });
 }
