@@ -44,7 +44,7 @@ function check() {
 
     if(params.get('s')) LineChart.filter = params.get('s').toLocaleLowerCase();
     LineChart._setData(schooldate_data, time_data)
-    LineChart._createChart()
+    //LineChart._createChart()
 
     //LineChart._createChart()
 }
