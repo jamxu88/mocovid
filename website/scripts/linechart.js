@@ -55,9 +55,7 @@ class LineChart {
               yaxis: {
                 title: {
                   text: 'Positive Cases'
-                },
-                min: 5,
-                max: 200
+                }
               },
               legend: {
                 position: 'top',
@@ -97,11 +95,11 @@ class LineChart {
           }))
           fdata = Object.values(sumofdates)
       }
-      this.options.series.data = fdata
+      this.options.series[0].data = fdata
       this.options.xaxis.categories = dates
-      console.log(this.options.series.data)
+      console.log(this.options)
       console.log(this.options.xaxis.categories)
-      this.options.chart.height = this.options.series.length * 30 < 200 ? 200 : this.options.series.length * 30
+      this.options.chart.height = 500
       this.options.chart.width = '80%'
     }
     _createChart() {
