@@ -82,7 +82,6 @@ class StackedBarChart {
         //this.chart.updateOptions()
     }
     _createChart() {
-        console.log(this.options)
         this.chart = null;
         this.chart = new ApexCharts(document.querySelector("#data"), this.options);
         this.chart.render()
