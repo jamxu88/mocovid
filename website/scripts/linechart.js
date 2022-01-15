@@ -72,26 +72,33 @@ class LineChart {
       var fdata = []
       var sumofdates = {}
       var schools = Object.keys(data)
-      schools.forEach(key => {
-        if (key.toLowerCase().includes(this.filter)) {
-          Object.keys(data[key]).forEach(date => {
-            fdata.push(data[key][date]["Active Cases"])
-            console.log("school specific")
-          })
-        } else {
+      var dates = Object.keys(data[schools[0]])
+      if (this.filter){
+        schools.forEach(key => {
+          if (key.toLowerCase().includes(this.filter)){
+            Object.keys(data[key]).forEach(date => {
+              if (date in sumofdates){
+                sumofdates[date] += data[key][date]["Active Cases"]
+              } else {
+                sumofdates[date] = data[key][date]["Active Cases"]
+              }
+            })
+          }
+          fdata = Object.values(sumofdates)
+        })
+      } else {
+        schools.forEach(key =>
           Object.keys(data[key]).forEach(date => {
             if (date in sumofdates){
               sumofdates[date] += data[key][date]["Active Cases"]
             } else {
               sumofdates[date] = data[key][date]["Active Cases"]
             }
-          })
+          }))
           fdata = Object.values(sumofdates)
-          console.log("overall")
-        }
-      })
-      console.log(fdata)
-      this.options.series = fdata
+      }
+      this.options.series.data = fdata
+      this.options.xaxis.categories = dates
       this.options.chart.height = this.options.series.length * 30 < 200 ? 200 : this.options.series.length * 30
       this.options.chart.width = '80%'
     }

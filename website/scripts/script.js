@@ -42,5 +42,9 @@ function check() {
     PieChart._setData(total_data)
     PieChart._createChart()
 
+    if(params.get('s')) LineChart.filter = params.get('s').toLocaleLowerCase();
+    LineChart._setData(schooldate_data)
+    LineChart._createChart()
+
     //LineChart._createChart()
 }

@@ -1,4 +1,1098 @@
 {
+    "2022-01-14": [
+        {
+            "School": "A. Mario Loiederman Middle Sch",
+            "Staff": 2,
+            "Student": 5,
+            "Grand Total": 7
+        },
+        {
+            "School": "Albert Einstein High School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Arcola Elementary School",
+            "Staff": 1,
+            "Student": 9,
+            "Grand Total": 10
+        },
+        {
+            "School": "Argyle Middle School",
+            "Staff": 1,
+            "Student": 19,
+            "Grand Total": 20
+        },
+        {
+            "School": "Ashburton Elementary School",
+            "Staff": 0,
+            "Student": 13,
+            "Grand Total": 13
+        },
+        {
+            "School": "Bannockburn Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Bayard Rustin Elementary Schl",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Beall Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Bel Pre Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Bells Mill Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Belmont Elementary School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Bethesda Elementary School",
+            "Staff": 1,
+            "Student": 11,
+            "Grand Total": 12
+        },
+        {
+            "School": "Bethesda-Chevy Chase High Schl",
+            "Staff": 0,
+            "Student": 8,
+            "Grand Total": 8
+        },
+        {
+            "School": "Beverly Farms Elementary Schl",
+            "Staff": 0,
+            "Student": 8,
+            "Grand Total": 8
+        },
+        {
+            "School": "Bradley Hills Elementary Schl",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Briggs Chaney Middle School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Brooke Grove Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Brown Station Elementary Schl",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Burning Tree Elementary School",
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4
+        },
+        {
+            "School": "Burnt Mills Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Cabin John Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Cannon Road Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Capt. James Daly Elementary",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Carderock Springs Elem School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Cashell Elementary School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Clarksburg Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Clarksburg High School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Clearspring Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Cloverly Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Col. Zadok Magruder High Schl",
+            "Staff": 2,
+            "Student": 8,
+            "Grand Total": 10
+        },
+        {
+            "School": "Cold Spring Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "College Gardens Elem School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Cresthaven Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Damascus Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Damascus High School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Darnestown Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Diamond Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Dr. Charles Drew Elem School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Dr. Martin Luther King, Jr. MS",
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6
+        },
+        {
+            "School": "Dr. Sally K. Ride Elem School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "DuFief Elementary School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Earle B. Wood Middle School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "East Silver Spring Elem School",
+            "Staff": 1,
+            "Student": 9,
+            "Grand Total": 10
+        },
+        {
+            "School": "Eastern Middle School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Fairland Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Fallsmead Elementary School",
+            "Staff": 1,
+            "Student": 6,
+            "Grand Total": 7
+        },
+        {
+            "School": "Farmland Elementary School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Flora M. Singer Elem School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Flower Hill Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Flower Valley Elem School",
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6
+        },
+        {
+            "School": "Forest Knolls Elem School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Forest Oak Middle School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Francis Scott Key Middle Schl",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Gaithersburg Elementary School",
+            "Staff": 0,
+            "Student": 23,
+            "Grand Total": 23
+        },
+        {
+            "School": "Gaithersburg High School",
+            "Staff": 1,
+            "Student": 15,
+            "Grand Total": 16
+        },
+        {
+            "School": "Gaithersburg Middle School",
+            "Staff": 2,
+            "Student": 31,
+            "Grand Total": 33
+        },
+        {
+            "School": "Garrett Park Elementary School",
+            "Staff": 1,
+            "Student": 6,
+            "Grand Total": 7
+        },
+        {
+            "School": "Georgian Forest Elem School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Germantown Elementary School",
+            "Staff": 0,
+            "Student": 7,
+            "Grand Total": 7
+        },
+        {
+            "School": "Glen Haven Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Glenallan Elementary School",
+            "Staff": 1,
+            "Student": 11,
+            "Grand Total": 12
+        },
+        {
+            "School": "Goshen Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Greencastle Elementary School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Greenwood Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Hallie Wells Middle Sch",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Harmony Hills Elem School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Herbert Hoover Middle School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Highland Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Jackson Road Elem School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "James Hubert Blake High School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "JoAnn Leleck ES at Broad Acres",
+            "Staff": 1,
+            "Student": 14,
+            "Grand Total": 15
+        },
+        {
+            "School": "John F. Kennedy High School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "John Poole Middle School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "John T. Baker Middle School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Jones Lane Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Judith A. Resnik Elem School",
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6
+        },
+        {
+            "School": "Julius West Middle School",
+            "Staff": 1,
+            "Student": 7,
+            "Grand Total": 8
+        },
+        {
+            "School": "Kemp Mill Elementary School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Kingsview Middle School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Lake Seneca Elementary School",
+            "Staff": 0,
+            "Student": 13,
+            "Grand Total": 13
+        },
+        {
+            "School": "Lakelands Park Middle School",
+            "Staff": 2,
+            "Student": 10,
+            "Grand Total": 12
+        },
+        {
+            "School": "Lakewood Elementary School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Laytonsville Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Little Bennett Elementary Schl",
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5
+        },
+        {
+            "School": "Lois P. Rockwell Elementary",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Lucy V. Barnsley Elementary",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Luxmanor Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "MacDonald Knolls Early Childhood Center",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Maryvale Elementary School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Meadow Hall Elementary School",
+            "Staff": 1,
+            "Student": 8,
+            "Grand Total": 9
+        },
+        {
+            "School": "Mill Creek Towne Elem School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Monocacy Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Montgomery Blair High School",
+            "Staff": 0,
+            "Student": 9,
+            "Grand Total": 9
+        },
+        {
+            "School": "Montgomery Knolls Elem School",
+            "Staff": 0,
+            "Student": 21,
+            "Grand Total": 21
+        },
+        {
+            "School": "Montgomery Village Middle Schl",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "New Hampshire Estates ES",
+            "Staff": 3,
+            "Student": 5,
+            "Grand Total": 8
+        },
+        {
+            "School": "Newport Mill Middle School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "North Bethesda Middle School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "North Chevy Chase Elem School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Northwest High School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Northwood High School",
+            "Staff": 0,
+            "Student": 10,
+            "Grand Total": 10
+        },
+        {
+            "School": "Oakland Terrace Elem School",
+            "Staff": 1,
+            "Student": 16,
+            "Grand Total": 17
+        },
+        {
+            "School": "Odessa Shannon Middle Schl",
+            "Staff": 0,
+            "Student": 10,
+            "Grand Total": 10
+        },
+        {
+            "School": "Olney Elementary School",
+            "Staff": 2,
+            "Student": 3,
+            "Grand Total": 5
+        },
+        {
+            "School": "Other/Central Office",
+            "Staff": 12,
+            "Student": 3,
+            "Grand Total": 15
+        },
+        {
+            "School": "Paint Branch High School",
+            "Staff": 15,
+            "Student": 62,
+            "Grand Total": 77
+        },
+        {
+            "School": "Parkland Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Pine Crest Elementary School",
+            "Staff": 2,
+            "Student": 1,
+            "Grand Total": 3
+        },
+        {
+            "School": "Piney Branch Elementary School",
+            "Staff": 2,
+            "Student": 2,
+            "Grand Total": 4
+        },
+        {
+            "School": "Poolesville Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Poolesville High School",
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3
+        },
+        {
+            "School": "Potomac Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Quince Orchard High School",
+            "Staff": 1,
+            "Student": 9,
+            "Grand Total": 10
+        },
+        {
+            "School": "Rachel Carson Elem School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Redland Middle School",
+            "Staff": 2,
+            "Student": 4,
+            "Grand Total": 6
+        },
+        {
+            "School": "RICA - Reg Inst for Child/Adol",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Richard Montgomery High School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Ridgeview Middle School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Ritchie Park Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Robert Frost Middle School",
+            "Staff": 2,
+            "Student": 3,
+            "Grand Total": 5
+        },
+        {
+            "School": "Roberto Clemente Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Rock Creek Forest Elementary",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Rock Creek Valley Elem School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Rock Terrace School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Rock View Elementary School",
+            "Staff": 0,
+            "Student": 34,
+            "Grand Total": 34
+        },
+        {
+            "School": "Rockville High School",
+            "Staff": 0,
+            "Student": 8,
+            "Grand Total": 8
+        },
+        {
+            "School": "Rocky Hill Middle School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Rolling Terrace Elem School",
+            "Staff": 3,
+            "Student": 0,
+            "Grand Total": 3
+        },
+        {
+            "School": "Ronald McNair Elem",
+            "Staff": 0,
+            "Student": 10,
+            "Grand Total": 10
+        },
+        {
+            "School": "Rosa M. Parks Middle School",
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4
+        },
+        {
+            "School": "Rosemary Hills Elem School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Rosemont Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "S. Christa McAuliffe ES",
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3
+        },
+        {
+            "School": "Sargent Shriver Elem School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Seneca Valley High School",
+            "Staff": 4,
+            "Student": 9,
+            "Grand Total": 13
+        },
+        {
+            "School": "Sequoyah Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Seven Locks Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Shady Grove Middle School",
+            "Staff": 0,
+            "Student": 6,
+            "Grand Total": 6
+        },
+        {
+            "School": "Sherwood Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Sherwood High School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Silver Creek Middle School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Silver Spring International MS",
+            "Staff": 0,
+            "Student": 7,
+            "Grand Total": 7
+        },
+        {
+            "School": "Sligo Creek Elementary School",
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4
+        },
+        {
+            "School": "Sligo Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Snowden Farm ES",
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3
+        },
+        {
+            "School": "Somerset Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "South Lake Elementary School",
+            "Staff": 2,
+            "Student": 3,
+            "Grand Total": 5
+        },
+        {
+            "School": "Springbrook High School",
+            "Staff": 1,
+            "Student": 7,
+            "Grand Total": 8
+        },
+        {
+            "School": "Stedwick Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Stone Mill Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Stonegate Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Strathmore Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Strawberry Knoll Elem School",
+            "Staff": 0,
+            "Student": 23,
+            "Grand Total": 23
+        },
+        {
+            "School": "Summit Hall Elementary School",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Takoma Park Elementary School",
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1
+        },
+        {
+            "School": "Takoma Park Middle School",
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3
+        },
+        {
+            "School": "Thomas S. Wootton High School",
+            "Staff": 2,
+            "Student": 9,
+            "Grand Total": 11
+        },
+        {
+            "School": "Thomas W. Pyle Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Thurgood Marshall Elem School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Tilden Middle School",
+            "Staff": 0,
+            "Student": 7,
+            "Grand Total": 7
+        },
+        {
+            "School": "Travilah Elementary School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Twinbrook Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Walt Whitman High School",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "Walter Johnson High School",
+            "Staff": 0,
+            "Student": 11,
+            "Grand Total": 11
+        },
+        {
+            "School": "Waters Landing Elementary Schl",
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1
+        },
+        {
+            "School": "Watkins Mill Elementary School",
+            "Staff": 1,
+            "Student": 6,
+            "Grand Total": 7
+        },
+        {
+            "School": "Watkins Mill High School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Weller Road Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Westbrook Elementary School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Westland Middle School",
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2
+        },
+        {
+            "School": "Westover Elementary School",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Wheaton High School",
+            "Staff": 1,
+            "Student": 6,
+            "Grand Total": 7
+        },
+        {
+            "School": "Wheaton Woods Elementary Schl",
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5
+        },
+        {
+            "School": "White Oak Middle School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "William B. Gibbs, Jr. ES",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "William H. Farquhar Middle Sch",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "William Tyler Page ES",
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4
+        },
+        {
+            "School": "Wilson Wims Elementary School",
+            "Staff": 0,
+            "Student": 7,
+            "Grand Total": 7
+        },
+        {
+            "School": "Winston Churchill High School",
+            "Staff": 0,
+            "Student": 10,
+            "Grand Total": 10
+        },
+        {
+            "School": "Wood Acres Elementary School",
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2
+        },
+        {
+            "School": "Woodlin Elementary School",
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3
+        },
+        {
+            "School": "Grand Total",
+            "Staff": 103,
+            "Student": 890,
+            "Grand Total": 993
+        }
+    ],
     "2022-01-13": [
         {
             "School": "Albert Einstein High School",
