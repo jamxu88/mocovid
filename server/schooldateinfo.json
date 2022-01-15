@@ -18,6 +18,12 @@
             "Grand Total": 8,
             "Active Cases": 76
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 76
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 4,
@@ -118,6 +124,36 @@
         }
     },
     "Alternative Ed": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 4,
@@ -128,6 +164,24 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 8
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 8
         }
     },
@@ -180,6 +234,12 @@
             "Grand Total": 4,
             "Active Cases": 42
         },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 42
+        },
         "2022-01-14": {
             "Staff": 1,
             "Student": 9,
@@ -204,6 +264,12 @@
             "Staff": 1,
             "Student": 23,
             "Grand Total": 24,
+            "Active Cases": 83
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 83
         },
         "2022-01-09": {
@@ -324,6 +390,12 @@
             "Grand Total": 1,
             "Active Cases": 4
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 4
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 2,
@@ -380,6 +452,12 @@
             "Grand Total": 5,
             "Active Cases": 29
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 29
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 1,
@@ -434,6 +512,12 @@
             "Staff": 1,
             "Student": 4,
             "Grand Total": 5,
+            "Active Cases": 25
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 25
         },
         "2022-01-09": {
@@ -610,6 +694,18 @@
             "Grand Total": 5,
             "Active Cases": 11
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -672,6 +768,24 @@
             "Grand Total": 1,
             "Active Cases": 18
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
         "2022-01-12": {
             "Staff": 0,
             "Student": 13,
@@ -682,6 +796,12 @@
             "Staff": 0,
             "Student": 5,
             "Grand Total": 5,
+            "Active Cases": 36
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 36
         }
     },
@@ -858,6 +978,12 @@
             "Grand Total": 3,
             "Active Cases": 35
         },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 35
+        },
         "2022-01-14": {
             "Staff": 0,
             "Student": 8,
@@ -882,6 +1008,12 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 9
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 9
         },
         "2022-01-09": {
@@ -1002,6 +1134,18 @@
             "Grand Total": 3,
             "Active Cases": 31
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 31
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 31
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 2,
@@ -1086,6 +1230,12 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 54
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 54
         }
     },
@@ -1232,6 +1382,12 @@
             "Grand Total": 3,
             "Active Cases": 14
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -1294,6 +1450,12 @@
             "Grand Total": 2,
             "Active Cases": 23
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 23
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 9,
@@ -1316,6 +1478,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 53
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 53
         }
     },
@@ -1406,6 +1574,12 @@
             "Grand Total": 3,
             "Active Cases": 23
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 23
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 3,
@@ -1429,9 +1603,21 @@
             "Student": 2,
             "Grand Total": 3,
             "Active Cases": 41
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 41
         }
     },
     "Cannon Road Elementary School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-06": {
             "Staff": 1,
             "Student": 1,
@@ -1442,6 +1628,18 @@
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 3
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 3
         },
         "2022-01-10": {
@@ -1550,6 +1748,18 @@
             "Grand Total": 3,
             "Active Cases": 5
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -1566,6 +1776,12 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 13
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 13
         },
         "2022-01-13": {
@@ -1600,10 +1816,46 @@
             "Grand Total": 2,
             "Active Cases": 8
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
         "2022-01-12": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 9
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 9
         }
     },
@@ -1626,6 +1878,18 @@
             "Grand Total": 1,
             "Active Cases": 17
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 6,
@@ -1636,6 +1900,12 @@
             "Staff": 0,
             "Student": 12,
             "Grand Total": 12,
+            "Active Cases": 35
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 35
         },
         "2022-01-13": {
@@ -1676,6 +1946,24 @@
             "Grand Total": 1,
             "Active Cases": 8
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
         "2022-01-12": {
             "Staff": 2,
             "Student": 0,
@@ -1686,6 +1974,12 @@
             "Staff": 1,
             "Student": 3,
             "Grand Total": 4,
+            "Active Cases": 14
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 14
         }
     },
@@ -1743,6 +2037,12 @@
             "Student": 2,
             "Grand Total": 2,
             "Active Cases": 34
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 34
         }
     },
     "Clarksburg Elementary School": {
@@ -1792,6 +2092,12 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 72
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 72
         },
         "2022-01-14": {
@@ -1882,6 +2188,12 @@
             "Grand Total": 4,
             "Active Cases": 18
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
         "2022-01-09": {
             "Staff": 2,
             "Student": 0,
@@ -1944,6 +2256,12 @@
             "Grand Total": 1,
             "Active Cases": 16
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 2,
@@ -1967,6 +2285,12 @@
             "Student": 4,
             "Grand Total": 4,
             "Active Cases": 35
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 35
         }
     },
     "Cloverly Elementary School": {
@@ -1980,6 +2304,24 @@
             "Staff": 0,
             "Student": 5,
             "Grand Total": 5,
+            "Active Cases": 11
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 11
         },
         "2022-01-10": {
@@ -2082,10 +2424,28 @@
             "Grand Total": 1,
             "Active Cases": 1
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 1
+        },
         "2022-01-07": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 2
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 2
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 2
         },
         "2022-01-10": {
@@ -2098,6 +2458,18 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 17
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 17
         },
         "2022-01-14": {
@@ -2194,6 +2566,12 @@
             "Grand Total": 1,
             "Active Cases": 10
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 10
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 2,
@@ -2210,6 +2588,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 20
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 20
         },
         "2022-01-14": {
@@ -2356,6 +2740,12 @@
             "Grand Total": 2,
             "Active Cases": 3
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
         "2022-01-08": {
             "Staff": 0,
             "Student": 1,
@@ -2486,6 +2876,12 @@
             "Grand Total": 7,
             "Active Cases": 32
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 32
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 5,
@@ -2542,6 +2938,12 @@
             "Grand Total": 3,
             "Active Cases": 28
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 28
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 3,
@@ -2592,6 +2994,18 @@
             "Grand Total": 7,
             "Active Cases": 22
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 7,
@@ -2640,6 +3054,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 6
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 6
         },
         "2022-01-09": {
@@ -2760,6 +3180,12 @@
             "Grand Total": 2,
             "Active Cases": 12
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 12
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 2,
@@ -2814,6 +3240,12 @@
             "Staff": 1,
             "Student": 2,
             "Grand Total": 3,
+            "Active Cases": 38
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 38
         },
         "2022-01-09": {
@@ -2876,6 +3308,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 23
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 23
         },
         "2022-01-10": {
@@ -2958,6 +3396,12 @@
             "Grand Total": 1,
             "Active Cases": 33
         },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 33
+        },
         "2022-01-14": {
             "Staff": 1,
             "Student": 6,
@@ -2982,6 +3426,12 @@
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 8
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 8
         },
         "2022-01-09": {
@@ -3040,6 +3490,12 @@
             "Grand Total": 3,
             "Active Cases": 17
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 4,
@@ -3068,6 +3524,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 49
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 49
         }
     },
@@ -3152,6 +3614,18 @@
             "Grand Total": 5,
             "Active Cases": 15
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 15
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 15
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 15,
@@ -3196,6 +3670,24 @@
             "Grand Total": 3,
             "Active Cases": 13
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 13
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 13
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 13
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 7,
@@ -3228,6 +3720,12 @@
         }
     },
     "Forest Knolls Elem School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-06": {
             "Staff": 0,
             "Student": 1,
@@ -3238,6 +3736,18 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 5
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 5
         },
         "2022-01-10": {
@@ -3387,6 +3897,12 @@
             "Student": 1,
             "Grand Total": 1,
             "Active Cases": 45
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 45
         }
     },
     "Francis Scott Key Middle Schl": {
@@ -3412,6 +3928,12 @@
             "Staff": 2,
             "Student": 0,
             "Grand Total": 2,
+            "Active Cases": 51
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 51
         },
         "2022-01-10": {
@@ -3462,6 +3984,12 @@
             "Staff": 3,
             "Student": 1,
             "Grand Total": 4,
+            "Active Cases": 43
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 43
         },
         "2022-01-09": {
@@ -3638,10 +4166,22 @@
             "Grand Total": 13,
             "Active Cases": 22
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
+        },
         "2022-01-08": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 23
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 23
         },
         "2022-01-10": {
@@ -3667,6 +4207,12 @@
             "Student": 5,
             "Grand Total": 6,
             "Active Cases": 67
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 67
         }
     },
     "Garrett Park Elementary School": {
@@ -3686,6 +4232,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 12
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 12
         },
         "2022-01-09": {
@@ -3750,6 +4302,12 @@
             "Grand Total": 1,
             "Active Cases": 20
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 20
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 2,
@@ -3798,6 +4356,12 @@
             "Staff": 1,
             "Student": 5,
             "Grand Total": 6,
+            "Active Cases": 16
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 16
         },
         "2022-01-09": {
@@ -3986,6 +4550,12 @@
             "Grand Total": 3,
             "Active Cases": 17
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 5,
@@ -4042,6 +4612,12 @@
             "Grand Total": 3,
             "Active Cases": 16
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 5,
@@ -4065,6 +4641,12 @@
             "Student": 2,
             "Grand Total": 2,
             "Active Cases": 33
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 33
         }
     },
     "Greencastle Elementary School": {
@@ -4084,6 +4666,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 11
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 11
         },
         "2022-01-09": {
@@ -4154,10 +4742,28 @@
             "Grand Total": 2,
             "Active Cases": 16
         },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-12": {
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 19
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 19
         },
         "2022-01-14": {
@@ -4190,6 +4796,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 16
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 16
         },
         "2022-01-10": {
@@ -4240,6 +4852,18 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 17
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 17
         },
         "2022-01-10": {
@@ -4366,6 +4990,18 @@
             "Grand Total": 1,
             "Active Cases": 25
         },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 25
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 25
+        },
         "2022-01-12": {
             "Staff": 0,
             "Student": 1,
@@ -4439,6 +5075,12 @@
             "Student": 1,
             "Grand Total": 1,
             "Active Cases": 25
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 25
         }
     },
     "Jackson Road Elem School": {
@@ -4458,6 +5100,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 11
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 11
         },
         "2022-01-09": {
@@ -4570,6 +5218,12 @@
             "Staff": 1,
             "Student": 2,
             "Grand Total": 3,
+            "Active Cases": 24
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 24
         },
         "2022-01-08": {
@@ -4696,6 +5350,12 @@
             "Grand Total": 3,
             "Active Cases": 7
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -4750,6 +5410,12 @@
             "Staff": 0,
             "Student": 5,
             "Grand Total": 5,
+            "Active Cases": 15
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 15
         },
         "2022-01-09": {
@@ -4832,6 +5498,12 @@
             "Grand Total": 2,
             "Active Cases": 19
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
+        },
         "2022-01-13": {
             "Staff": 0,
             "Student": 1,
@@ -4862,6 +5534,18 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 20
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 20
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 20
         },
         "2022-01-10": {
@@ -4982,6 +5666,12 @@
             "Grand Total": 1,
             "Active Cases": 19
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 5,
@@ -5038,6 +5728,12 @@
             "Grand Total": 1,
             "Active Cases": 26
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 26
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 4,
@@ -5061,6 +5757,12 @@
             "Student": 1,
             "Grand Total": 1,
             "Active Cases": 41
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 41
         }
     },
     "Kingsview Middle School": {
@@ -5080,6 +5782,12 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 28
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 28
         },
         "2022-01-09": {
@@ -5138,6 +5846,12 @@
             "Grand Total": 3,
             "Active Cases": 23
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 23
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -5160,6 +5874,12 @@
             "Staff": 1,
             "Student": 3,
             "Grand Total": 4,
+            "Active Cases": 37
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 37
         },
         "2022-01-14": {
@@ -5244,6 +5964,12 @@
             "Grand Total": 3,
             "Active Cases": 9
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
         "2022-01-08": {
             "Staff": 0,
             "Student": 1,
@@ -5312,6 +6038,12 @@
             "Grand Total": 2,
             "Active Cases": 12
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 12
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 3,
@@ -5366,6 +6098,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 27
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 27
         },
         "2022-01-10": {
@@ -5480,6 +6218,12 @@
             "Grand Total": 1,
             "Active Cases": 5
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -5498,10 +6242,22 @@
             "Grand Total": 3,
             "Active Cases": 10
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 10
+        },
         "2022-01-13": {
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 11
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 11
         }
     },
@@ -5586,6 +6342,12 @@
             "Grand Total": 5,
             "Active Cases": 16
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 10,
@@ -5630,10 +6392,46 @@
             "Grand Total": 2,
             "Active Cases": 2
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 2
+        },
         "2022-01-07": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 3
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 3
         },
         "2022-01-13": {
@@ -5730,6 +6528,12 @@
             "Grand Total": 1,
             "Active Cases": 20
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 20
+        },
         "2022-01-09": {
             "Staff": 2,
             "Student": 0,
@@ -5746,6 +6550,12 @@
             "Staff": 1,
             "Student": 5,
             "Grand Total": 6,
+            "Active Cases": 31
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 31
         },
         "2022-01-13": {
@@ -5824,6 +6634,36 @@
         }
     },
     "Monocacy Elementary School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 1,
@@ -5934,6 +6774,18 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 16
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 16
         },
         "2022-01-10": {
@@ -6083,6 +6935,12 @@
             "Student": 2,
             "Grand Total": 4,
             "Active Cases": 112
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 112
         }
     },
     "New Hampshire Estates ES": {
@@ -6096,6 +6954,24 @@
             "Staff": 5,
             "Student": 3,
             "Grand Total": 8,
+            "Active Cases": 9
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 9
         },
         "2022-01-10": {
@@ -6210,6 +7086,12 @@
             "Grand Total": 6,
             "Active Cases": 35
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 35
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 2,
@@ -6254,10 +7136,28 @@
             "Grand Total": 2,
             "Active Cases": 2
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 2
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 2
+        },
         "2022-01-08": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 3
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 3
         },
         "2022-01-10": {
@@ -6270,6 +7170,18 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 5
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 5
         },
         "2022-01-14": {
@@ -6422,6 +7334,18 @@
             "Grand Total": 2,
             "Active Cases": 8
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 1,
@@ -6434,10 +7358,22 @@
             "Grand Total": 6,
             "Active Cases": 16
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-13": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 17
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 17
         }
     },
@@ -6490,6 +7426,12 @@
             "Grand Total": 3,
             "Active Cases": 45
         },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 45
+        },
         "2022-01-14": {
             "Staff": 1,
             "Student": 16,
@@ -6514,6 +7456,12 @@
             "Staff": 0,
             "Student": 5,
             "Grand Total": 5,
+            "Active Cases": 37
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 37
         },
         "2022-01-09": {
@@ -6572,6 +7520,12 @@
             "Grand Total": 4,
             "Active Cases": 22
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -6594,6 +7548,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 33
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 33
         },
         "2022-01-14": {
@@ -6746,6 +7706,12 @@
             "Grand Total": 2,
             "Active Cases": 16
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 2,
@@ -6802,6 +7768,12 @@
             "Grand Total": 3,
             "Active Cases": 21
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 21
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -6818,6 +7790,12 @@
             "Staff": 1,
             "Student": 5,
             "Grand Total": 6,
+            "Active Cases": 31
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 31
         },
         "2022-01-13": {
@@ -6846,10 +7824,22 @@
             "Grand Total": 3,
             "Active Cases": 7
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
         "2022-01-08": {
             "Staff": 2,
             "Student": 0,
             "Grand Total": 2,
+            "Active Cases": 9
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 9
         },
         "2022-01-10": {
@@ -6968,6 +7958,12 @@
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 14
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 14
         },
         "2022-01-10": {
@@ -7206,6 +8202,12 @@
             "Grand Total": 1,
             "Active Cases": 21
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 21
+        },
         "2022-01-09": {
             "Staff": 2,
             "Student": 2,
@@ -7392,6 +8394,12 @@
             "Grand Total": 4,
             "Active Cases": 18
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 3,
@@ -7440,6 +8448,12 @@
             "Staff": 1,
             "Student": 4,
             "Grand Total": 5,
+            "Active Cases": 17
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 17
         },
         "2022-01-09": {
@@ -7504,6 +8518,12 @@
             "Grand Total": 1,
             "Active Cases": 27
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 27
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 5,
@@ -7552,6 +8572,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 18
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 18
         },
         "2022-01-09": {
@@ -7616,6 +8642,12 @@
             "Grand Total": 2,
             "Active Cases": 19
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 4,
@@ -7626,6 +8658,12 @@
             "Staff": 1,
             "Student": 7,
             "Grand Total": 8,
+            "Active Cases": 32
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 32
         },
         "2022-01-13": {
@@ -7642,10 +8680,34 @@
         }
     },
     "Rock Terrace School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-08": {
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 1
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 1
         },
         "2022-01-10": {
@@ -7664,6 +8726,12 @@
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 5
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 5
         },
         "2022-01-14": {
@@ -7690,6 +8758,12 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 29
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 29
         },
         "2022-01-09": {
@@ -7878,6 +8952,12 @@
             "Grand Total": 2,
             "Active Cases": 17
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-10": {
             "Staff": 3,
             "Student": 7,
@@ -7932,6 +9012,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 28
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 28
         },
         "2022-01-10": {
@@ -8046,6 +9132,12 @@
             "Grand Total": 2,
             "Active Cases": 16
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -8069,6 +9161,18 @@
             "Student": 1,
             "Grand Total": 1,
             "Active Cases": 32
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 32
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 32
         }
     },
     "Rosemary Hills Elem School": {
@@ -8088,6 +9192,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 12
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 12
         },
         "2022-01-09": {
@@ -8138,6 +9248,18 @@
             "Staff": 3,
             "Student": 0,
             "Grand Total": 3,
+            "Active Cases": 9
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 9
         },
         "2022-01-09": {
@@ -8262,6 +9384,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 36
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 36
         },
         "2022-01-10": {
@@ -8420,6 +9548,12 @@
         }
     },
     "Seven Locks Elementary School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-06": {
             "Staff": 4,
             "Student": 1,
@@ -8430,6 +9564,12 @@
             "Staff": 3,
             "Student": 0,
             "Grand Total": 3,
+            "Active Cases": 8
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 8
         },
         "2022-01-09": {
@@ -8454,6 +9594,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 34
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 34
         },
         "2022-01-14": {
@@ -8488,6 +9634,12 @@
             "Grand Total": 2,
             "Active Cases": 16
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 16
+        },
         "2022-01-10": {
             "Staff": 2,
             "Student": 9,
@@ -8506,6 +9658,12 @@
             "Grand Total": 3,
             "Active Cases": 44
         },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 44
+        },
         "2022-01-14": {
             "Staff": 0,
             "Student": 6,
@@ -8520,10 +9678,22 @@
             "Grand Total": 6,
             "Active Cases": 6
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 6
+        },
         "2022-01-07": {
             "Staff": 2,
             "Student": 0,
             "Grand Total": 2,
+            "Active Cases": 8
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 8
         },
         "2022-01-09": {
@@ -8548,6 +9718,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 16
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 16
         },
         "2022-01-14": {
@@ -8700,6 +9876,12 @@
             "Grand Total": 7,
             "Active Cases": 37
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 37
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 6,
@@ -8818,6 +10000,18 @@
             "Grand Total": 3,
             "Active Cases": 21
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 21
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 21
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 1,
@@ -8930,6 +10124,12 @@
             "Grand Total": 4,
             "Active Cases": 12
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 12
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -8968,6 +10168,12 @@
         }
     },
     "South Lake Elementary School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-06": {
             "Staff": 1,
             "Student": 4,
@@ -9048,6 +10254,12 @@
             "Grand Total": 3,
             "Active Cases": 20
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 20
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 5,
@@ -9070,6 +10282,12 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 44
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 44
         }
     },
@@ -9160,6 +10378,12 @@
             "Grand Total": 4,
             "Active Cases": 24
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 24
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 9,
@@ -9192,6 +10416,36 @@
         }
     },
     "Stephen Knolls School": {
+        "2022-01-05": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 0
+        },
         "2022-01-10": {
             "Staff": 2,
             "Student": 1,
@@ -9204,10 +10458,22 @@
             "Grand Total": 3,
             "Active Cases": 6
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 6
+        },
         "2022-01-13": {
             "Staff": 1,
             "Student": 0,
             "Grand Total": 1,
+            "Active Cases": 7
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 7
         }
     },
@@ -9230,6 +10496,18 @@
             "Grand Total": 5,
             "Active Cases": 17
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-10": {
             "Staff": 0,
             "Student": 3,
@@ -9246,6 +10524,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 30
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 30
         },
         "2022-01-14": {
@@ -9272,6 +10556,12 @@
             "Staff": 0,
             "Student": 4,
             "Grand Total": 4,
+            "Active Cases": 22
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 22
         },
         "2022-01-09": {
@@ -9336,6 +10626,12 @@
             "Grand Total": 1,
             "Active Cases": 23
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 23
+        },
         "2022-01-10": {
             "Staff": 3,
             "Student": 5,
@@ -9390,6 +10686,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 51
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 51
         },
         "2022-01-10": {
@@ -9448,6 +10750,12 @@
             "Grand Total": 1,
             "Active Cases": 34
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 34
+        },
         "2022-01-10": {
             "Staff": 1,
             "Student": 4,
@@ -9502,6 +10810,12 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 18
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 18
         },
         "2022-01-10": {
@@ -9604,6 +10918,36 @@
             "Grand Total": 7,
             "Active Cases": 7
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
+        },
         "2022-01-11": {
             "Staff": 0,
             "Student": 5,
@@ -9620,6 +10964,12 @@
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 17
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 17
         }
     },
@@ -9766,6 +11116,12 @@
             "Grand Total": 3,
             "Active Cases": 9
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 9
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 1,
@@ -9872,10 +11228,28 @@
             "Grand Total": 3,
             "Active Cases": 3
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 3
+        },
         "2022-01-07": {
             "Staff": 1,
             "Student": 1,
             "Grand Total": 2,
+            "Active Cases": 5
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 5
         },
         "2022-01-10": {
@@ -9894,6 +11268,12 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 11
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 11
         },
         "2022-01-14": {
@@ -10012,6 +11392,18 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 40
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 40
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 40
         }
     },
@@ -10158,16 +11550,46 @@
             "Grand Total": 4,
             "Active Cases": 14
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 2,
             "Grand Total": 3,
             "Active Cases": 17
         },
+        "2022-01-10": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
+        "2022-01-11": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
+        },
         "2022-01-12": {
             "Staff": 0,
             "Student": 2,
             "Grand Total": 2,
+            "Active Cases": 19
+        },
+        "2022-01-13": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 19
         }
     },
@@ -10178,10 +11600,22 @@
             "Grand Total": 1,
             "Active Cases": 1
         },
+        "2022-01-06": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 1
+        },
         "2022-01-07": {
             "Staff": 1,
             "Student": 1,
             "Grand Total": 2,
+            "Active Cases": 3
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 3
         },
         "2022-01-09": {
@@ -10364,6 +11798,12 @@
             "Grand Total": 2,
             "Active Cases": 14
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
+        },
         "2022-01-09": {
             "Staff": 0,
             "Student": 3,
@@ -10393,6 +11833,12 @@
             "Student": 1,
             "Grand Total": 2,
             "Active Cases": 31
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 31
         }
     },
     "Weller Road Elementary School": {
@@ -10412,6 +11858,18 @@
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 38
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 38
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 38
         },
         "2022-01-10": {
@@ -10462,6 +11920,12 @@
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 5
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 5
         },
         "2022-01-09": {
@@ -10574,6 +12038,12 @@
             "Staff": 1,
             "Student": 2,
             "Grand Total": 3,
+            "Active Cases": 7
+        },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 7
         },
         "2022-01-08": {
@@ -10706,6 +12176,12 @@
             "Grand Total": 1,
             "Active Cases": 31
         },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 31
+        },
         "2022-01-10": {
             "Staff": 2,
             "Student": 30,
@@ -10756,6 +12232,12 @@
             "Grand Total": 5,
             "Active Cases": 33
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 33
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 1,
@@ -10785,6 +12267,12 @@
             "Student": 1,
             "Grand Total": 2,
             "Active Cases": 60
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 60
         }
     },
     "White Oak Middle School": {
@@ -10804,6 +12292,12 @@
             "Staff": 2,
             "Student": 5,
             "Grand Total": 7,
+            "Active Cases": 36
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 36
         },
         "2022-01-09": {
@@ -10924,6 +12418,12 @@
             "Grand Total": 2,
             "Active Cases": 18
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 0,
@@ -10978,6 +12478,12 @@
             "Staff": 0,
             "Student": 6,
             "Grand Total": 6,
+            "Active Cases": 32
+        },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 32
         },
         "2022-01-09": {
@@ -11058,6 +12564,12 @@
             "Staff": 2,
             "Student": 7,
             "Grand Total": 9,
+            "Active Cases": 52
+        },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 52
         },
         "2022-01-13": {
@@ -11148,10 +12660,22 @@
             "Grand Total": 2,
             "Active Cases": 5
         },
+        "2022-01-07": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
+        },
         "2022-01-08": {
             "Staff": 0,
             "Student": 3,
             "Grand Total": 3,
+            "Active Cases": 8
+        },
+        "2022-01-09": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 8
         },
         "2022-01-10": {
@@ -11228,10 +12752,22 @@
             "Grand Total": 2,
             "Active Cases": 22
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
+        },
         "2022-01-13": {
             "Staff": 0,
             "Student": 1,
             "Grand Total": 1,
+            "Active Cases": 23
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 23
         }
     },
@@ -11278,6 +12814,12 @@
             "Grand Total": 6,
             "Active Cases": 19
         },
+        "2022-01-12": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
+        },
         "2022-01-13": {
             "Staff": 0,
             "Student": 8,
@@ -11310,6 +12852,12 @@
             "Grand Total": 3,
             "Active Cases": 10
         },
+        "2022-01-08": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 10
+        },
         "2022-01-09": {
             "Staff": 1,
             "Student": 1,
@@ -11338,6 +12886,12 @@
             "Staff": 1,
             "Student": 5,
             "Grand Total": 6,
+            "Active Cases": 43
+        },
+        "2022-01-14": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
             "Active Cases": 43
         }
     }

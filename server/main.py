@@ -124,11 +124,16 @@ for school in schools:
                 #total cases too
                 schooldatafordate = datejson[date][schoolindex]
                 temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:10]) + schooldatafordate["Grand Total"]}
+        if date not in list(temp.keys()):
+            try:
+                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": temp[list(temp.keys())[-1]]["Active Cases"]}
+            except Exception as e:
+                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0,
+                              "Active Cases": 0}
     schooldateinfo[school] = temp
 
 with open("schooldateinfo.json", "w") as outputfile:
     outputfile.write(json.dumps(schooldateinfo, indent=4))
-
 
 
 
