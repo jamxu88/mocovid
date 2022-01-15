@@ -1,4 +1,4 @@
-class LineChart {
+class CaseLineChart {
     constructor() {
         this.filter = null
         this.chart = null
@@ -53,7 +53,7 @@ class LineChart {
               },
               yaxis: {
                 title: {
-                  text: 'Active Cases'
+                  text: 'Daily Cases'
                 }
               },
               legend: {
@@ -75,28 +75,28 @@ class LineChart {
           if (key.toLowerCase().includes(this.filter)){
             Object.keys(data[key]).forEach(date => {
               if (date in sumofdates){
-                sumofdates[date] += data[key][date]["Active Cases"]
+                sumofdates[date] += data[key][date]["Grand Total"]
               } else {
-                sumofdates[date] = data[key][date]["Active Cases"]
+                sumofdates[date] = data[key][date]["Grand Total"]
               }
             })
           }
           fdata = Object.values(sumofdates)
-          this.options.series[0].name = "Active Cases in " + toTitleCase(this.filter)
-          this.options.title.text = "Active Cases in " + toTitleCase(this.filter)
+          this.options.series[0].name = "Daily Cases in " + toTitleCase(this.filter)
+          this.options.title.text = "Daily Cases in " + toTitleCase(this.filter)
         })
       } else {
         schools.forEach(key =>
           Object.keys(data[key]).forEach(date => {
             if (date in sumofdates){
-              sumofdates[date] += data[key][date]["Active Cases"]
+              sumofdates[date] += data[key][date]["Grand Total"]
             } else {
-              sumofdates[date] = data[key][date]["Active Cases"]
+              sumofdates[date] = data[key][date]["Grand Total"]
             }
           }))
           fdata = Object.values(sumofdates)
-          this.options.series[0].name = "Active Cases in MCPS"
-          this.options.title.text = "Active Cases in MCPS"
+          this.options.series[0].name = "Daily Cases in MCPS"
+          this.options.title.text = "Daily Cases in MCPS"
       }
       this.options.series[0].data = fdata
       this.options.xaxis.categories = dates
@@ -106,7 +106,7 @@ class LineChart {
     }
     _createChart() {
         this.chart = null;
-        this.chart = new ApexCharts(document.querySelector("#linechart"), this.options);
+        this.chart = new ApexCharts(document.querySelector("#caselinechart"), this.options);
         this.chart.render()
         console.log('Line Chart Rendered')
     }
