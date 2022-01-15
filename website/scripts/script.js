@@ -11,7 +11,7 @@ var total_data,StackedChart,time_data
     StackedChart._setData(total_data)
     PieChart._setData(total_data)
     HeatMap._setData(time_data)
-    LineChart._setData(schooldate_data)
+    LineChart._setData(schooldate_data, time_data)
     
     console.log('Data Loaded')
     check()
@@ -43,7 +43,7 @@ function check() {
     PieChart._createChart()
 
     if(params.get('s')) LineChart.filter = params.get('s').toLocaleLowerCase();
-    LineChart._setData(schooldate_data)
+    LineChart._setData(schooldate_data, time_data)
     LineChart._createChart()
 
     //LineChart._createChart()

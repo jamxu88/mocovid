@@ -6,8 +6,8 @@ class LineChart {
         this.options = {
             series: [
                 {
-                  name: "Active Cases",
-                  data: []
+                  data: [],
+                  name: "Active Cases"
                 }
               ],
                 chart: {
@@ -68,11 +68,11 @@ class LineChart {
               }
         }
     }
-    _setData(data){
+    _setData(data, datedata){
       var fdata = []
       var sumofdates = {}
       var schools = Object.keys(data)
-      var dates = Object.keys(data[schools[0]])
+      var dates = Object.keys(datedata).reverse()
       if (this.filter){
         schools.forEach(key => {
           if (key.toLowerCase().includes(this.filter)){
@@ -99,6 +99,8 @@ class LineChart {
       }
       this.options.series.data = fdata
       this.options.xaxis.categories = dates
+      console.log(this.options.series.data)
+      console.log(this.options.xaxis.categories)
       this.options.chart.height = this.options.series.length * 30 < 200 ? 200 : this.options.series.length * 30
       this.options.chart.width = '80%'
     }
