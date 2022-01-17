@@ -66,7 +66,6 @@ class PieChart {
 
     }
     _createChart() {
-        console.log(this.options)
         this.chart = null;
         this.chart = new ApexCharts(document.querySelector("#chart"), this.options);
         this.chart.render()
