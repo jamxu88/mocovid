@@ -123,7 +123,7 @@ for school in schools:
                 #include new staff, student, and grand total cases
                 #total cases too
                 schooldatafordate = datejson[date][schoolindex]
-                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:10]) + schooldatafordate["Grand Total"]}
+                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:9]) + schooldatafordate["Grand Total"]}
         if date not in list(temp.keys()):
             try:
                 temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:9])}
