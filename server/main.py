@@ -19,9 +19,11 @@ directory = ("data")
 dashboarddata = []
 dashboarddata10days = []
 dates = []
+alldates = []
 days = sorted(os.listdir(directory))[::-1][:10] #taking first 10 days for dashboard
 for filename in days:
     if filename.endswith(".xlsx"):
+        dates.append(filename[:len(filename) - 5])
         df = pd.read_excel(f"{directory}/{filename}")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata10days.append(df)
@@ -31,14 +33,14 @@ for filename in days:
 alldays = sorted(os.listdir(directory))[::-1]
 for filename in alldays:
     if filename.endswith(".xlsx"):
-        dates.append(filename[:len(filename)-5])
+        alldates.append(filename[:len(filename) - 5])
         df = pd.read_excel(f"{directory}/{filename}")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata.append(df)
     else:
         continue
 
-dashboarddata10day = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
+dashboarddata10day = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata10days]
 dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
 
 staffdata10 = [getdata(school, "Staff", dashboarddata10day) for school in schools]
@@ -53,9 +55,9 @@ avgstaffdata10 = [data/len(days) for data in staffdata10]
 avgstudentdata10 = [data/len(days) for data in studentdata10]
 avggrandtotaldata10 = [data/len(days) for data in grandtotaldata10]
 
-avgstaffdata = [data/len(alldays) for data in staffdata10]
-avgstudentdata = [data/len(alldays) for data in studentdata10]
-avggrandtotaldata = [data/len(alldays) for data in grandtotaldata10]
+avgstaffdata = [data/len(alldays) for data in staffdata]
+avgstudentdata = [data/len(alldays) for data in studentdata]
+avggrandtotaldata = [data/len(alldays) for data in grandtotaldata]
 
 activecasespercentage = []
 for caseindex in range(len(grandtotaldata10)):
@@ -91,8 +93,8 @@ with open('dashboard.json', "w") as outputfile:
 datejson = {}
 dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
 
-for dateindex in range(len(dates)):
-    datejson[dates[dateindex]] = json.loads(dashboarddata[dateindex].to_json(orient="records"))
+for dateindex in range(len(alldates)):
+    datejson[alldates[dateindex]] = json.loads(dashboarddata[dateindex].to_json(orient="records"))
 
 datejson = {
     key:
@@ -109,15 +111,13 @@ with open('dateinfo.json', "w") as outputfile:
     outputfile.write(json.dumps(datejson, indent=4))
 
 #optimize this at a later date
-
-#bad logic rn
 schooldateinfo = {}
 for school in schools:
     temp = {}
     datastaff = []
     datastudent = []
     datagrandtotal = []
-    for date in dates[::-1]:
+    for date in alldates[::-1]:
         for schoolindex in range(len(datejson[date])):
             if datejson[date][schoolindex]["School"] == school:
                 #include new staff, student, and grand total cases
@@ -126,7 +126,7 @@ for school in schools:
                 temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:10]) + schooldatafordate["Grand Total"]}
         if date not in list(temp.keys()):
             try:
-                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": temp[list(temp.keys())[-1]]["Active Cases"]}
+                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:9])}
             except Exception as e:
                 temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0,
                               "Active Cases": 0}
