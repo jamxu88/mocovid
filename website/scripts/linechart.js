@@ -95,8 +95,8 @@ class LineChart {
             }
           }))
           fdata = Object.values(sumofdates)
-          this.options.series[0].name = "Active Cases in MCPS"
-          this.options.title.text = "Active Cases in MCPS"
+          this.options.series[0].name = "Active Cases in MCPS (10 Day Period)"
+          this.options.title.text = "Active Cases in MCPS (10 Day Period)"
       }
       this.options.series[0].data = fdata
       this.options.xaxis.categories = dates

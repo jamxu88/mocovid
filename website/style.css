@@ -14,6 +14,12 @@ body {
 	margin-bottom: 1rem;
 }
 
+#header {
+	padding-left: 5rem;
+	padding-right: 5rem;
+	text-align: center;
+}
+
 .center-content {
     display: grid;
     place-content: center;
