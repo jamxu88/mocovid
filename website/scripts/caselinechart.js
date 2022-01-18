@@ -1,3 +1,5 @@
+
+
 class CaseLineChart {
     constructor() {
         this.filter = null
@@ -10,10 +12,11 @@ class CaseLineChart {
                 }
               ],
                 chart: {
-                height: 350,
+                height: '350',
+                width:'50%',
                 type: 'line',
                 dropShadow: {
-                  enabled: true,
+                  enabled: false,
                   color: '#000',
                   top: 18,
                   left: 7,

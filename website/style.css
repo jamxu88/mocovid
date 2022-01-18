@@ -7,6 +7,8 @@ p {
 
 body {
 	background-color: #ffffff;
+	padding: 0;
+	margin: 0;
 }
 
 #heading {
@@ -14,11 +16,53 @@ body {
 	margin-bottom: 1rem;
 }
 
-#header {
-	padding-left: 5rem;
-	padding-right: 5rem;
+.header {
+	padding-top: 1%;
+	font-size: 3vh;
 	text-align: center;
 }
+
+
+#search {
+	width: 55vw;
+	height: 5vh;
+	font-size: 2vh;
+	padding-left: 1vh;
+	border-radius: 0;
+	border-width: 1px;
+	box-shadow: 5px 5px #e4e4e4;
+	font-weight: lighter;
+}
+
+.searchbar {
+	padding-top: 2%;
+}
+
+.titlebar {
+	background-color: #92BEFF;
+	height: 6vh;
+	width: 100%;
+	color: black;
+	font-size: 2vh;
+	display: grid;
+    place-content: center;
+}
+
+.main-content {
+	display: grid;
+}
+
+.information {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#numbers {
+	padding-bottom: 2%;
+	margin-bottom: 0px;
+	font-size: 2vh;
+}
+
 
 .center-content {
     display: grid;
@@ -29,10 +73,6 @@ body {
 	padding: 2rem;
 }
 
-#search {
-	width: 15rem;
-	height: 2rem;
-}
 
 button {
 	height: 2rem;
@@ -52,7 +92,7 @@ div {
 	text-align: center;
 }
 a {
-	color:#77efff;
+	color:#45b2c0;
 }
 
 .apexcharts-tooltip {
