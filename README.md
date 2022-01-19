@@ -34,7 +34,8 @@ We have 3 publicly available JSONs available for anyone to use! The files are al
         "active_percentages": "3.18%",
         "total_cases": 75,
         "avg_total_cases_per_day": 5.7692307692
-    },
+    }, ...
+}
 ```
 
 ![Each date's data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dateinfo.json)
