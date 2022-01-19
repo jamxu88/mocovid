@@ -80,7 +80,7 @@ class PieChart {
       let aasc = asc.reduce(this._add,0) / asc.length
       let sca = sc.reduce(this._add,0) / sc.length
       console.log(`total cases per day: ${ainc}, percent: ${aprc}, staff cases per day: ${aasc}, ${sca}`)
-      var prediction = aprc ** 2 + ainc * 10 + aasc * 3 + sca * 20
+      var prediction = aprc * 10 + ainc * 8 + aasc * 3 + sca * 20
       document.getElementById('prediction').innerText = Math.ceil(prediction)
     }
     _add(accumulator, a) {
