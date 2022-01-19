@@ -13,7 +13,7 @@ class LineChart {
                 height: 350,
                 type: 'line',
                 dropShadow: {
-                  enabled: true,
+                  enabled: false,
                   color: '#000',
                   top: 18,
                   left: 7,

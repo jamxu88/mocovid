@@ -1,4 +1,3 @@
-var total_data,StackedChart,time_data
 (async () => {
     total_data = await fetch('https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dashboard.json').then(resp => resp.json())
     time_data = await fetch('https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dateinfo.json').then(resp => resp.json())
@@ -32,13 +31,14 @@ function search() {
 function check() {
     var params = new URLSearchParams(window.location.search)
     document.getElementById('search').value = params.get('s');
+    if(params.get('s')) document.getElementById('name').innerText = `${params.get('s')} Overview`
     if(params.get('s')) StackedChart.filter = params.get('s').toLocaleLowerCase();
     StackedChart._setData(total_data)
     StackedChart._createChart()
 
     if(params.get('s')) HeatMap.filter = params.get('s').toLocaleLowerCase();
     HeatMap._setData(time_data)
-    HeatMap._createChart()
+    //HeatMap._createChart()
 
     if(params.get('s')) PieChart.filter = params.get('s').toLocaleLowerCase();
     PieChart._setData(total_data)
@@ -53,4 +53,14 @@ function check() {
     CaseLineChart._createChart()
 
     //LineChart._createChart()
+}
+
+function renderHeatmap(){
+    if(document.getElementById('heatmapToggle').innerText == 'View Heatmap') {
+        HeatMap._createChart()
+        document.getElementById('heatmapToggle').innerText = 'Hide Heatmap'
+    }else {
+        window.location.reload()
+    }
+    
 }

@@ -8,42 +8,38 @@
         <meta name="description" content="Aggregated COVID-19 Data for Montgomery County Public Schools with Visualizations">
     </head>
     <body>
-        <div class='titlebar'>
-            <a href='https://mcpscovid.co' style="color: black; text-decoration: none;"><b>MCPS COVID-19 Statistics</b></a>
+        <div id='header' class='center-content'>
+            <p id='heading' class='center-content'>[DEMO] MCPS COVID-19 Statistics</p>
+            <p>Data aggregated from the reports found at the <a href="https://www.montgomeryschoolsmd.org/coronavirus/dashboard/" target='_blank'>MCPS COVID Dashboard</a> into a set of visualizations. Data last updated for 01/14/2022. <b>*** Data has not yet been released for 1/15, 1/16, or 1/17. ***</b> This is a work in progress demo with a lot more data and other visualizations coming soon.</p>
+            <p><b>Why is this data different from the official COVID Dashboard graph?</b> The graph on the official dashboard is not accurate and not up to date. We use the released data found in the PDFs released around 7pm each day to calculate our numbers. There will be some error but it is generally accurate.</p>
         </div>
-        <div class="center-content searchbar">
-            <input placeholder="Search school or type keyword" id='search' class='center-content' list='schools'>
+        <div class="center-content">
+            <input placeholder="Search School" id='search' class='center-content' list='schools'>
             <datalist id='schools'>
                 <option value="A. Mario Loiederman Middle Sch"><option value="Albert Einstein High School"><option value="Alternative Ed"><option value="Arcola Elementary School"><option value="Argyle Middle School"><option value="Ashburton Elementary School"><option value="Bannockburn Elementary School"><option value="Bayard Rustin Elementary Schl"><option value="Beall Elementary School"><option value="Bel Pre Elementary School"><option value="Bells Mill Elementary School"><option value="Belmont Elementary School"><option value="Benjamin Banneker Middle Schl"><option value="Bethesda Elementary School"><option value="Bethesda-Chevy Chase High Schl"><option value="Beverly Farms Elementary Schl"><option value="Bradley Hills Elementary Schl"><option value="Briggs Chaney Middle School"><option value="Brooke Grove Elementary School"><option value="Brookhaven Elementary School"><option value="Brown Station Elementary Schl"><option value="Burning Tree Elementary School"><option value="Burnt Mills Elementary School"><option value="Burtonsville Elementary School"><option value="Cabin John Middle School"><option value="Candlewood Elementary School"><option value="Cannon Road Elementary School"><option value="Capt. James Daly Elementary"><option value="Carderock Springs Elem School"><option value="Carl Sandburg Learning Center"><option value="Cashell Elementary School"><option value="Cedar Grove Elementary School"><option value="Chevy Chase Elementary School"><option value="Clarksburg Elementary School"><option value="Clarksburg High School"><option value="Clearspring Elementary School"><option value="Clopper Mill Elementary School"><option value="Cloverly Elementary School"><option value="Col. Zadok Magruder High Schl"><option value="Cold Spring Elementary School"><option value="College Gardens Elem School"><option value="Cresthaven Elementary School"><option value="Damascus Elementary School"><option value="Damascus High School"><option value="Darnestown Elementary School"><option value="Diamond Elementary School"><option value="Dr. Charles Drew Elem School"><option value="Dr. Martin Luther King, Jr. MS"><option value="Dr. Sally K. Ride Elem School"><option value="DuFief Elementary School"><option value="Earle B. Wood Middle School"><option value="East Silver Spring Elem School"><option value="Eastern Middle School"><option value="Fairland Elementary School"><option value="Fallsmead Elementary School"><option value="Farmland Elementary School"><option value="Fields Road Elementary School"><option value="Flora M. Singer Elem School"><option value="Flower Hill Elementary School"><option value="Flower Valley Elem School"><option value="Forest Knolls Elem School"><option value="Forest Oak Middle School"><option value="Fox Chapel Elementary School"><option value="Francis Scott Key Middle Schl"><option value="Gaithersburg Elementary School"><option value="Gaithersburg High School"><option value="Gaithersburg Middle School"><option value="Galway Elementary School"><option value="Garrett Park Elementary School"><option value="Georgian Forest Elem School"><option value="Germantown Elementary School"><option value="Glen Haven Elementary School"><option value="Glenallan Elementary School"><option value="Goshen Elementary School"><option value="Great Seneca Creek Elem School"><option value="Greencastle Elementary School"><option value="Greenwood Elementary School"><option value="Hallie Wells Middle Sch"><option value="Harmony Hills Elem School"><option value="Herbert Hoover Middle School"><option value="Highland Elementary School"><option value="Highland View Elem School"><option value="Jackson Road Elem School"><option value="James Hubert Blake High School"><option value="JoAnn Leleck ES at Broad Acres"><option value="John F. Kennedy High School"><option value="John Poole Middle School"><option value="John T. Baker Middle School"><option value="Jones Lane Elementary School"><option value="Judith A. Resnik Elem School"><option value="Julius West Middle School"><option value="Kemp Mill Elementary School"><option value="Kensington-Parkwood Elem Schl"><option value="Kingsview Middle School"><option value="Lake Seneca Elementary School"><option value="Lakelands Park Middle School"><option value="Lakewood Elementary School"><option value="Laytonsville Elementary School"><option value="Little Bennett Elementary Schl"><option value="Lois P. Rockwell Elementary"><option value="Longview School"><option value="Lucy V. Barnsley Elementary"><option value="Luxmanor Elementary School"><option value="Maryvale Elementary School"><option value="Meadow Hall Elementary School"><option value="Mill Creek Towne Elem School"><option value="Monocacy Elementary School"><option value="Montgomery Blair High School"><option value="Montgomery Knolls Elem School"><option value="Montgomery Village Middle Schl"><option value="Neelsville Middle School"><option value="New Hampshire Estates ES"><option value="Newport Mill Middle School"><option value="North Bethesda Middle School"><option value="North Chevy Chase Elem School"><option value="Northwest High School"><option value="Northwood High School"><option value="Oak View Elementary School"><option value="Oakland Terrace Elem School"><option value="Odessa Shannon Middle Schl"><option value="Olney Elementary School"><option value="Paint Branch High School"><option value="Parkland Middle School"><option value="Pine Crest Elementary School"><option value="Piney Branch Elementary School"><option value="Poolesville Elementary School"><option value="Poolesville High School"><option value="Potomac Elementary School"><option value="Quince Orchard High School"><option value="Rachel Carson Elem School"><option value="Redland Middle School"><option value="RICA - Reg Inst for Child/Adol"><option value="Richard Montgomery High School"><option value="Ridgeview Middle School"><option value="Ritchie Park Elementary School"><option value="Robert Frost Middle School"><option value="Roberto Clemente Middle School"><option value="Rock Creek Forest Elementary"><option value="Rock Creek Valley Elem School"><option value="Rock Terrace School"><option value="Rock View Elementary School"><option value="Rockville High School"><option value="Rocky Hill Middle School"><option value="Rolling Terrace Elem School"><option value="Ronald McNair Elem"><option value="Rosa M. Parks Middle School"><option value="Roscoe R. Nix Elementary"><option value="Rosemary Hills Elem School"><option value="Rosemont Elementary School"><option value="S. Christa McAuliffe ES"><option value="Sargent Shriver Elem School"><option value="Seneca Valley High School"><option value="Sequoyah Elementary School"><option value="Seven Locks Elementary School"><option value="Shady Grove Middle School"><option value="Sherwood Elementary School"><option value="Sherwood High School"><option value="Silver Creek Middle School"><option value="Silver Spring International MS"><option value="Sligo Creek Elementary School"><option value="Sligo Middle School"><option value="Snowden Farm ES"><option value="Somerset Elementary School"><option value="South Lake Elementary School"><option value="Spark M. Matsunaga Elem School"><option value="Springbrook High School"><option value="Stedwick Elementary School"><option value="Stephen Knolls School"><option value="Stone Mill Elementary School"><option value="Stonegate Elementary School"><option value="Strathmore Elementary School"><option value="Strawberry Knoll Elem School"><option value="Summit Hall Elementary School"><option value="Takoma Park Elementary School"><option value="Takoma Park Middle School"><option value="Thomas Edison High School of Technology"><option value="Thomas S. Wootton High School"><option value="Thomas W. Pyle Middle School"><option value="Thurgood Marshall Elem School"><option value="Tilden Middle School"><option value="Travilah Elementary School"><option value="Twinbrook Elementary School"><option value="Viers Mill Elementary School"><option value="Walt Whitman High School"><option value="Walter Johnson High School"><option value="Washington Grove Elem School"><option value="Waters Landing Elementary Schl"><option value="Watkins Mill Elementary School"><option value="Watkins Mill High School"><option value="Wayside Elementary School"><option value="Weller Road Elementary School"><option value="Westbrook Elementary School"><option value="Westland Middle School"><option value="Westover Elementary School"><option value="Wheaton High School"><option value="Wheaton Woods Elementary Schl"><option value="Whetstone Elementary School"><option value="White Oak Middle School"><option value="William B. Gibbs, Jr. ES"><option value="William H. Farquhar Middle Sch"><option value="William Tyler Page ES"><option value="Wilson Wims Elementary School"><option value="Winston Churchill High School"><option value="Wood Acres Elementary School"><option value="Woodfield Elementary School"><option value="Woodlin Elementary School"><option value="Wyngate Elementary School"></option>
             </datalist>
             <button onclick="search()">Filter</button>
         </div>
-        <div class='center-content header'>
-            <b id='name'>MCPS Overview</b>
-        </div>
-        <div class='main-content'>
-            <div id='loading' class='center-content'>
-                Loading Data...
-            </div>
-            <div id='numbers' class='center-content'>
-                <p>Active Student Cases: <b id='studentCount' class='right-justify'>0</b><br>Active Staff Cases: <b id='staffCount' class='right-justify'>0</b><br>Total Active Cases: <b id='totalCount' class='right-justify'>0</b><br>Danger score: <b id='prediction'></b></p>
-            </div>
-            <div class='center-content information'>
-                <p>
-                    <b>What is a danger score?</b> A danger score is a simple number derrived from COVID stats that gague a general understanding of the COVID situation. A higher score will generally mean a higher risk, with scores above 300 having a higher chance of going virtual. Obviously, this method is not perfect, but it can be used to gain a better overall view.
-                </p>
-                <p>Data aggregated from the reports found at the <a href="https://www.montgomeryschoolsmd.org/coronavirus/dashboard/" target='_blank'>MCPS COVID Dashboard</a> into a set of visualizations. Data last updated for 01/14/2022. <b>*** Data has not yet been released for 1/15, 1/16, 1/17, or 1/18. ***</b> This is a work in progress demo with a lot more data and other visualizations coming soon.</p>
-                <p><b>Why is this data different from the official COVID Dashboard graph?</b> The graph on the official dashboard is not accurate and not up to date. We use the released data found in the PDFs released around 7pm each day to calculate our numbers. There will be some error but it is generally accurate.</p>
-            </div>
-            <button style="width: 50%;margin-left: 25%;" class="center-content" onclick="renderHeatmap()" id='heatmapToggle'>View Heatmap</button>
-            <div id='chart' class='center-content'></div>
-            <div id='heatmap' class='center-content'></div>
-            <div id='linechart' class='center-content'></div>
-            <div id='caselinechart' class='center-content'></div>
-        </div>
 
-        <div class="center-content" style="font-size: 1rem; color:grey;padding-bottom: 5rem;">
-            This website was not created nor endorsed by Montgomery County Public Schools.
+        <div id='chart' class='center-content'>
+            
+        </div>
+        <div id='linechart' class='center-content'></div>
+        <div id='caselinechart' class='center-content'></div>
+
+        <br>
+        <br>
+        
+        <div id='heatmap' class='center-content'>
+            <div id='loading'>
+                Loading Charts...
+            </div>
+        </div>
+        <div id='data' class='center-content'>
+            
+        </div>
+        <div>
+            <p>This website was not created nor endorsed by Montgomery County Public Schools. This data should not be viewed as 100% accurate.</p>
         </div>
 
         <div class='footer'>
@@ -55,7 +51,6 @@
         <script src='./scripts/heatmap.js'></script>
         <script src='./scripts/linechart.js'></script>
         <script src='./scripts/caselinechart.js'></script>
-        <script src='./scripts/numbers.js'></script>
         <script src='./scripts/table.js'></script>
         <script src='./scripts/script.js'></script>
     </body>
