@@ -62,15 +62,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 75
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 76
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 49
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 51
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 46
         }
     },
     "Albert Einstein High School": {
@@ -136,15 +142,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 121
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 123
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 94
+            "Active Cases": 96
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 89
         }
     },
     "Alternative Ed": {
@@ -219,6 +231,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 8
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
         }
     },
     "Arcola Elementary School": {
@@ -283,16 +301,22 @@
             "Active Cases": 49
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 36
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 39
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 35
+        },
+        "2022-01-17": {
+            "Staff": 3,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 31
+            "Grand Total": 3,
+            "Active Cases": 33
         }
     },
     "Argyle Middle School": {
@@ -358,15 +382,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 145
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 147
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 117
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 120
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 99
         }
     },
     "Ashburton Elementary School": {
@@ -432,15 +462,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 79
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 82
         },
         "2022-01-16": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 68
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 73
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 72
         }
     },
     "Bannockburn Elementary School": {
@@ -512,9 +548,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 18
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 17
+            "Active Cases": 18
         }
     },
     "Bayard Rustin Elementary Schl": {
@@ -580,15 +622,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 40
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 41
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 38
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 36
+            "Active Cases": 32
         }
     },
     "Beall Elementary School": {
@@ -654,14 +702,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 43
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 36
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
             "Active Cases": 33
         }
     },
@@ -737,6 +791,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 31
         }
     },
     "Bells Mill Elementary School": {
@@ -811,6 +871,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 31
         }
     },
     "Belmont Elementary School": {
@@ -881,6 +947,12 @@
             "Active Cases": 21
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 18
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -959,6 +1031,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
         }
     },
     "Bethesda Elementary School": {
@@ -1024,15 +1102,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 59
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 60
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 57
+            "Active Cases": 58
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 59
         }
     },
     "Bethesda-Chevy Chase High Schl": {
@@ -1097,16 +1181,22 @@
             "Active Cases": 163
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 116
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 119
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 95
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 99
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 97
         }
     },
     "Beverly Farms Elementary Schl": {
@@ -1172,14 +1262,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 42
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 38
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
             "Active Cases": 37
         }
     },
@@ -1255,6 +1351,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 30
         }
     },
     "Briggs Chaney Middle School": {
@@ -1329,6 +1431,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 44
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 41
         }
     },
     "Brooke Grove Elementary School": {
@@ -1403,6 +1511,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 15
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 13
         }
     },
     "Brookhaven Elementary School": {
@@ -1477,6 +1591,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 38
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 31
         }
     },
     "Brown Station Elementary Schl": {
@@ -1548,9 +1668,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 40
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 39
+            "Active Cases": 37
         }
     },
     "Burning Tree Elementary School": {
@@ -1616,15 +1742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 26
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 27
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 21
+            "Active Cases": 22
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 17
         }
     },
     "Burnt Mills Elementary School": {
@@ -1699,6 +1831,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 27
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 23
         }
     },
     "Burtonsville Elementary School": {
@@ -1770,9 +1908,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 34
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 33
+            "Active Cases": 31
         }
     },
     "Cabin John Middle School": {
@@ -1844,9 +1988,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 52
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 51
+            "Active Cases": 46
         }
     },
     "Candlewood Elementary School": {
@@ -1912,15 +2062,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 24
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 25
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 22
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 20
+            "Active Cases": 21
         }
     },
     "Cannon Road Elementary School": {
@@ -1995,6 +2151,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 10
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 11
         }
     },
     "Capt. James Daly Elementary": {
@@ -2059,16 +2221,22 @@
             "Active Cases": 34
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 27
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 29
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 26
+            "Active Cases": 28
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 25
         }
     },
     "Carderock Springs Elem School": {
@@ -2134,15 +2302,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 13
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 14
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 10
+            "Active Cases": 11
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 12
         }
     },
     "Carl Sandburg Learning Center": {
@@ -2213,10 +2387,16 @@
             "Active Cases": 6
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 4
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 3
+            "Active Cases": 2
         }
     },
     "Cashell Elementary School": {
@@ -2291,6 +2471,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 23
         }
     },
     "Cedar Grove Elementary School": {
@@ -2356,15 +2542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 10
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 13
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 12
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 8
+            "Active Cases": 9
         }
     },
     "Chevy Chase Elementary School": {
@@ -2430,15 +2622,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 16
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 17
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 16
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 14
+            "Active Cases": 11
         }
     },
     "Clarksburg Elementary School": {
@@ -2504,15 +2702,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 66
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 67
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 53
+            "Active Cases": 54
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 50
         }
     },
     "Clarksburg High School": {
@@ -2578,15 +2782,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 112
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 113
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 100
+        },
+        "2022-01-17": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 95
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 85
         }
     },
     "Clearspring Elementary School": {
@@ -2651,16 +2861,22 @@
             "Active Cases": 44
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 2,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 34
+            "Grand Total": 2,
+            "Active Cases": 36
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 31
+            "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 30
         }
     },
     "Clopper Mill Elementary School": {
@@ -2732,9 +2948,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 16
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 15
+            "Active Cases": 16
         }
     },
     "Cloverly Elementary School": {
@@ -2805,10 +3027,16 @@
             "Active Cases": 21
         },
         "2022-01-16": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 16
+            "Grand Total": 1,
+            "Active Cases": 17
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6,
+            "Active Cases": 21
         }
     },
     "Col. Zadok Magruder High Schl": {
@@ -2883,6 +3111,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 107
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 87
         }
     },
     "Cold Spring Elementary School": {
@@ -2954,6 +3188,12 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 19
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 18
@@ -3022,15 +3262,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 33
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 34
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 32
+            "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 29
         }
     },
     "Cresthaven Elementary School": {
@@ -3105,6 +3351,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 15
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 13
         }
     },
     "Damascus Elementary School": {
@@ -3179,6 +3431,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 55
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 52
         }
     },
     "Damascus High School": {
@@ -3244,15 +3502,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 65
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 66
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 50
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 53
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 44
         }
     },
     "Darnestown Elementary School": {
@@ -3318,15 +3582,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 36
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 37
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 34
+            "Active Cases": 35
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 39
         }
     },
     "Diamond Elementary School": {
@@ -3391,16 +3661,22 @@
             "Active Cases": 46
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 2,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 43
+            "Grand Total": 2,
+            "Active Cases": 45
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 39
+            "Active Cases": 41
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 38
         }
     },
     "Dr. Charles Drew Elem School": {
@@ -3466,15 +3742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 42
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 43
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 35
+            "Active Cases": 36
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 32
         }
     },
     "Dr. Martin Luther King, Jr. MS": {
@@ -3540,14 +3822,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 50
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 51
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 41
+        },
+        "2022-01-17": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 3,
+            "Grand Total": 3,
             "Active Cases": 38
         }
     },
@@ -3614,15 +3902,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 42
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 40
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 36
+            "Active Cases": 34
         }
     },
     "DuFief Elementary School": {
@@ -3687,16 +3981,22 @@
             "Active Cases": 22
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 19
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 24
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 17
+            "Active Cases": 22
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 21
         }
     },
     "Earle B. Wood Middle School": {
@@ -3768,9 +4068,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 50
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 49
+            "Active Cases": 45
         }
     },
     "East Silver Spring Elem School": {
@@ -3836,11 +4142,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 77
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 78
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 73
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -3919,6 +4231,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 53
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 51
         }
     },
     "Fairland Elementary School": {
@@ -3993,6 +4311,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 18
         }
     },
     "Fallsmead Elementary School": {
@@ -4058,15 +4382,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 32
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 33
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 31
+            "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 30
         }
     },
     "Farmland Elementary School": {
@@ -4132,15 +4462,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 27
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 28
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 25
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 27
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 31
         }
     },
     "Fields Road Elementary School": {
@@ -4206,15 +4542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 37
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 38
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 31
+            "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 33
         }
     },
     "Flora M. Singer Elem School": {
@@ -4286,9 +4628,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 25
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 22
         }
     },
     "Flower Hill Elementary School": {
@@ -4363,6 +4711,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 42
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 38
         }
     },
     "Flower Valley Elem School": {
@@ -4437,6 +4791,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 33
         }
     },
     "Forest Knolls Elem School": {
@@ -4502,15 +4862,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 14
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 16
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 13
+            "Active Cases": 15
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
         }
     },
     "Forest Oak Middle School": {
@@ -4585,6 +4951,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 41
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 36
         }
     },
     "Fox Chapel Elementary School": {
@@ -4659,6 +5031,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 27
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 24
         }
     },
     "Francis Scott Key Middle Schl": {
@@ -4733,6 +5111,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 50
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 48
         }
     },
     "Gaithersburg Elementary School": {
@@ -4804,6 +5188,12 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 134
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 133
@@ -4872,15 +5262,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 189
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 190
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 157
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 160
+        },
+        "2022-01-17": {
+            "Staff": 2,
+            "Student": 2,
+            "Grand Total": 4,
+            "Active Cases": 150
         }
     },
     "Gaithersburg Middle School": {
@@ -4946,15 +5342,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 129
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 131
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 121
+        },
+        "2022-01-17": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 116
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 112
         }
     },
     "Galway Elementary School": {
@@ -5029,6 +5431,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 36
+        },
+        "2022-01-17": {
+            "Staff": 2,
+            "Student": 1,
+            "Grand Total": 3,
+            "Active Cases": 38
         }
     },
     "Garrett Park Elementary School": {
@@ -5102,6 +5510,12 @@
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
             "Active Cases": 26
         }
     },
@@ -5177,6 +5591,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 21
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
         }
     },
     "Germantown Elementary School": {
@@ -5248,9 +5668,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 31
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 34
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 33
         }
     },
     "Glen Haven Elementary School": {
@@ -5316,15 +5742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 40
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 41
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 36
+            "Active Cases": 37
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 8,
+            "Grand Total": 8,
+            "Active Cases": 38
         }
     },
     "Glenallan Elementary School": {
@@ -5389,16 +5821,22 @@
             "Active Cases": 61
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 45
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 47
         },
         "2022-01-16": {
+            "Staff": 2,
+            "Student": 5,
+            "Grand Total": 7,
+            "Active Cases": 44
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 35
+            "Active Cases": 42
         }
     },
     "Goshen Elementary School": {
@@ -5464,15 +5902,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 28
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 29
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 26
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 28
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 29
         }
     },
     "Great Seneca Creek Elem School": {
@@ -5544,9 +5988,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 19
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 21
         }
     },
     "Greencastle Elementary School": {
@@ -5618,9 +6068,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 24
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 23
+            "Active Cases": 22
         }
     },
     "Greenwood Elementary School": {
@@ -5686,15 +6142,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 12
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 13
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 8
+            "Active Cases": 9
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 10
         }
     },
     "Hallie Wells Middle Sch": {
@@ -5760,15 +6222,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 22
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 23
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 19
+            "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 23
         }
     },
     "Harmony Hills Elem School": {
@@ -5839,6 +6307,12 @@
             "Active Cases": 31
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 26
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -5908,15 +6382,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 42
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 34
+            "Active Cases": 35
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 27
         }
     },
     "Highland Elementary School": {
@@ -5991,6 +6471,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 9
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
         }
     },
     "Highland View Elem School": {
@@ -6065,6 +6551,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
         }
     },
     "Jackson Road Elem School": {
@@ -6130,15 +6622,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 22
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 25
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 19
+            "Active Cases": 22
         }
     },
     "James Hubert Blake High School": {
@@ -6213,6 +6711,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 60
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 49
         }
     },
     "JoAnn Leleck ES at Broad Acres": {
@@ -6287,6 +6791,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 89
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 89
         }
     },
     "John F. Kennedy High School": {
@@ -6352,15 +6862,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 160
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 162
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 123
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 126
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 118
         }
     },
     "John Poole Middle School": {
@@ -6426,15 +6942,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 19
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 20
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 18
+            "Active Cases": 19
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 19
         }
     },
     "John T. Baker Middle School": {
@@ -6509,6 +7031,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 30
         }
     },
     "Jones Lane Elementary School": {
@@ -6574,15 +7102,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 11
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 12
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 8
+            "Active Cases": 9
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 12
         }
     },
     "Judith A. Resnik Elem School": {
@@ -6648,15 +7182,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 35
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 36
         },
         "2022-01-16": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 29
+            "Staff": 2,
+            "Student": 1,
+            "Grand Total": 3,
+            "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6,
+            "Active Cases": 36
         }
     },
     "Julius West Middle School": {
@@ -6722,15 +7262,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 107
+            "Student": 6,
+            "Grand Total": 6,
+            "Active Cases": 113
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 93
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 100
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 94
         }
     },
     "Kemp Mill Elementary School": {
@@ -6805,6 +7351,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 35
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 30
         }
     },
     "Kensington-Parkwood Elem Schl": {
@@ -6879,6 +7431,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 21
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 17
         }
     },
     "Kingsview Middle School": {
@@ -6944,14 +7502,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 65
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 66
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 61
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
             "Active Cases": 59
         }
     },
@@ -7027,6 +7591,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 27
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 24
         }
     },
     "Lakelands Park Middle School": {
@@ -7092,15 +7662,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 105
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 109
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 91
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 98
+        },
+        "2022-01-17": {
+            "Staff": 2,
+            "Student": 4,
+            "Grand Total": 6,
+            "Active Cases": 101
         }
     },
     "Lakewood Elementary School": {
@@ -7166,15 +7742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 20
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 21
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 18
+            "Active Cases": 19
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 22
         }
     },
     "Laytonsville Elementary School": {
@@ -7240,15 +7822,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 23
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 25
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 21
+            "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 22
         }
     },
     "Little Bennett Elementary Schl": {
@@ -7323,6 +7911,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 28
         }
     },
     "Lois P. Rockwell Elementary": {
@@ -7397,6 +7991,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 16
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 12
         }
     },
     "Longview School": {
@@ -7471,6 +8071,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 6
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
         }
     },
     "Lucy V. Barnsley Elementary": {
@@ -7545,6 +8151,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 34
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 36
         }
     },
     "Luxmanor Elementary School": {
@@ -7619,6 +8231,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 42
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 40
         }
     },
     "MacDonald Knolls Early Childhood Center": {
@@ -7693,6 +8311,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 3
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 4
         }
     },
     "Maryvale Elementary School": {
@@ -7758,14 +8382,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 36
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 37
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
             "Active Cases": 32
         }
     },
@@ -7841,6 +8471,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 26
         }
     },
     "Mill Creek Towne Elem School": {
@@ -7912,9 +8548,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 18
+            "Active Cases": 17
         }
     },
     "Monocacy Elementary School": {
@@ -7989,6 +8631,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 8
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
         }
     },
     "Montgomery Blair High School": {
@@ -8054,15 +8702,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 195
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 196
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 160
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 164
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 149
         }
     },
     "Montgomery Knolls Elem School": {
@@ -8134,8 +8788,14 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 58
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
             "Active Cases": 56
         }
     },
@@ -8202,15 +8862,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 45
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 38
+            "Active Cases": 42
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 41
         }
     },
     "Neelsville Middle School": {
@@ -8285,6 +8951,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 93
+        },
+        "2022-01-17": {
+            "Staff": 2,
+            "Student": 2,
+            "Grand Total": 4,
+            "Active Cases": 81
         }
     },
     "New Hampshire Estates ES": {
@@ -8349,16 +9021,22 @@
             "Active Cases": 23
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 23
+            "Staff": 3,
+            "Student": 1,
+            "Grand Total": 4,
+            "Active Cases": 27
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 20
+            "Active Cases": 24
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 26
         }
     },
     "Newport Mill Middle School": {
@@ -8433,6 +9111,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 39
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 36
         }
     },
     "North Bethesda Middle School": {
@@ -8504,8 +9188,14 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 56
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5,
             "Active Cases": 55
         }
     },
@@ -8572,15 +9262,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 4
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 5
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 6
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 4
+            "Active Cases": 6
         }
     },
     "Northwest High School": {
@@ -8646,15 +9342,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 136
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 139
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 108
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 113
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 104
         }
     },
     "Northwood High School": {
@@ -8720,15 +9422,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 148
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 149
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 126
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 128
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 110
         }
     },
     "Oak View Elementary School": {
@@ -8803,6 +9511,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 9
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
         }
     },
     "Oakland Terrace Elem School": {
@@ -8868,15 +9582,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 57
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 59
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 50
+            "Active Cases": 52
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 49
         }
     },
     "Odessa Shannon Middle Schl": {
@@ -8942,15 +9662,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 76
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 77
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 55
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 57
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 53
         }
     },
     "Olney Elementary School": {
@@ -9016,15 +9742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 26
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 27
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 18
+            "Active Cases": 19
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 17
         }
     },
     "Paint Branch High School": {
@@ -9089,16 +9821,22 @@
             "Active Cases": 328
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 268
+            "Staff": 3,
+            "Student": 17,
+            "Grand Total": 20,
+            "Active Cases": 288
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 244
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 266
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 259
         }
     },
     "Parkland Middle School": {
@@ -9163,16 +9901,22 @@
             "Active Cases": 227
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 161
+            "Grand Total": 1,
+            "Active Cases": 162
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 140
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 142
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 129
         }
     },
     "Pine Crest Elementary School": {
@@ -9238,15 +9982,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 36
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 38
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 34
+            "Active Cases": 36
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 38
         }
     },
     "Piney Branch Elementary School": {
@@ -9311,15 +10061,21 @@
             "Active Cases": 41
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 29
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 31
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 24
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
             "Active Cases": 22
         }
     },
@@ -9386,11 +10142,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 15
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 16
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 9
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -9469,6 +10231,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 49
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 44
         }
     },
     "Potomac Elementary School": {
@@ -9534,15 +10302,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 35
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 39
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 26
+            "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 28
         }
     },
     "Quince Orchard High School": {
@@ -9608,15 +10382,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 160
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 162
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 135
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 139
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 122
         }
     },
     "Rachel Carson Elem School": {
@@ -9688,9 +10468,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 19
+            "Active Cases": 18
         }
     },
     "Redland Middle School": {
@@ -9756,15 +10542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 59
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 61
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 50
+            "Active Cases": 52
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 44
         }
     },
     "RICA - Reg Inst for Child/Adol": {
@@ -9839,6 +10631,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 11
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 10
         }
     },
     "Richard Montgomery High School": {
@@ -9903,16 +10701,22 @@
             "Active Cases": 144
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 113
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 117
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 96
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 103
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 5,
+            "Grand Total": 6,
+            "Active Cases": 94
         }
     },
     "Ridgeview Middle School": {
@@ -9978,15 +10782,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 51
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 53
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 44
+            "Active Cases": 46
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 40
         }
     },
     "Ritchie Park Elementary School": {
@@ -10052,15 +10862,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 30
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 31
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 23
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 28
         }
     },
     "Robert Frost Middle School": {
@@ -10125,16 +10941,22 @@
             "Active Cases": 48
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 38
+            "Grand Total": 1,
+            "Active Cases": 39
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 36
+            "Active Cases": 37
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 32
         }
     },
     "Roberto Clemente Middle School": {
@@ -10200,15 +11022,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 31
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 34
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 22
+            "Active Cases": 25
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 24
         }
     },
     "Rock Creek Forest Elementary": {
@@ -10274,15 +11102,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 31
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 32
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 20
+            "Active Cases": 21
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 19
         }
     },
     "Rock Creek Valley Elem School": {
@@ -10357,6 +11191,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 25
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 23
         }
     },
     "Rock Terrace School": {
@@ -10427,6 +11267,12 @@
             "Active Cases": 4
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 4
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -10495,16 +11341,22 @@
             "Active Cases": 90
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 2,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 81
+            "Grand Total": 2,
+            "Active Cases": 83
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 65
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 70
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 67
         }
     },
     "Rockville High School": {
@@ -10570,15 +11422,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 94
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 98
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 66
+            "Active Cases": 70
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 63
         }
     },
     "Rocky Hill Middle School": {
@@ -10644,15 +11502,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 79
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 80
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 72
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 69
+            "Active Cases": 59
         }
     },
     "Rolling Terrace Elem School": {
@@ -10723,10 +11587,16 @@
             "Active Cases": 50
         },
         "2022-01-16": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 39
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 38
+            "Active Cases": 39
         }
     },
     "Ronald McNair Elem": {
@@ -10792,15 +11662,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 55
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 56
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 42
+            "Active Cases": 43
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 39
         }
     },
     "Rosa M. Parks Middle School": {
@@ -10866,15 +11742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 34
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 36
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 30
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 33
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 36
         }
     },
     "Roscoe R. Nix Elementary": {
@@ -10946,9 +11828,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 18
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 17
+            "Active Cases": 16
         }
     },
     "Rosemary Hills Elem School": {
@@ -11023,6 +11911,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 23
         }
     },
     "Rosemont Elementary School": {
@@ -11094,9 +11988,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 9
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 10
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 10
         }
     },
     "S. Christa McAuliffe ES": {
@@ -11161,16 +12061,22 @@
             "Active Cases": 36
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 30
+            "Grand Total": 1,
+            "Active Cases": 31
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 25
+            "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 23
         }
     },
     "Sargent Shriver Elem School": {
@@ -11241,10 +12147,16 @@
             "Active Cases": 69
         },
         "2022-01-16": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 55
+            "Grand Total": 1,
+            "Active Cases": 56
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 52
         }
     },
     "Seneca Valley High School": {
@@ -11310,15 +12222,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 68
+            "Student": 5,
+            "Grand Total": 5,
+            "Active Cases": 73
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 67
+        },
+        "2022-01-17": {
+            "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 61
+            "Active Cases": 60
         }
     },
     "Sequoyah Elementary School": {
@@ -11393,6 +12311,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 28
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 24
         }
     },
     "Seven Locks Elementary School": {
@@ -11467,6 +12391,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 31
         }
     },
     "Shady Grove Middle School": {
@@ -11532,15 +12462,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 40
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 41
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 36
+            "Active Cases": 37
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 33
         }
     },
     "Sherwood Elementary School": {
@@ -11606,15 +12542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 7
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 8
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 7
+            "Active Cases": 8
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 8
         }
     },
     "Sherwood High School": {
@@ -11685,10 +12627,16 @@
             "Active Cases": 50
         },
         "2022-01-16": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 41
+            "Grand Total": 1,
+            "Active Cases": 42
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 38
         }
     },
     "Silver Creek Middle School": {
@@ -11754,15 +12702,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 38
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 39
         },
         "2022-01-16": {
             "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 29
+            "Grand Total": 1,
+            "Active Cases": 30
         }
     },
     "Silver Spring International MS": {
@@ -11834,9 +12788,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 53
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 55
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 52
         }
     },
     "Sligo Creek Elementary School": {
@@ -11911,6 +12871,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 25
         }
     },
     "Sligo Middle School": {
@@ -11976,15 +12942,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 38
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 39
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 32
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 34
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 34
         }
     },
     "Snowden Farm ES": {
@@ -12049,16 +13021,22 @@
             "Active Cases": 34
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 22
+            "Staff": 1,
+            "Student": 3,
+            "Grand Total": 4,
+            "Active Cases": 26
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 19
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 24
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 24
         }
     },
     "Somerset Elementary School": {
@@ -12133,6 +13111,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 13
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 13
         }
     },
     "South Lake Elementary School": {
@@ -12198,11 +13182,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 39
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 40
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 33
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -12271,16 +13261,22 @@
             "Active Cases": 41
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 35
+            "Grand Total": 1,
+            "Active Cases": 36
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 27
+            "Active Cases": 28
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 25
         }
     },
     "Springbrook High School": {
@@ -12346,15 +13342,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 117
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 120
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 94
+            "Active Cases": 97
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 90
         }
     },
     "Stedwick Elementary School": {
@@ -12429,6 +13431,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 40
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 39
         }
     },
     "Stephen Knolls School": {
@@ -12493,16 +13501,22 @@
             "Active Cases": 7
         },
         "2022-01-15": {
-            "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 5
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 7
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 3
+            "Active Cases": 5
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 5
         }
     },
     "Stone Mill Elementary School": {
@@ -12577,6 +13591,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 19
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
         }
     },
     "Stonegate Elementary School": {
@@ -12642,15 +13662,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 28
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 29
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 20
+            "Active Cases": 21
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 15
         }
     },
     "Strathmore Elementary School": {
@@ -12716,11 +13742,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 34
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 36
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 29
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -12790,15 +13822,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 88
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 89
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 72
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 75
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 70
         }
     },
     "Summit Hall Elementary School": {
@@ -12873,6 +13911,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 45
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 43
         }
     },
     "Takoma Park Elementary School": {
@@ -12947,6 +13991,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 20
         }
     },
     "Takoma Park Middle School": {
@@ -13012,11 +14062,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 43
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 47
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 41
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -13086,15 +14142,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 10
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 11
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 10
+            "Active Cases": 11
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 11
         }
     },
     "Thomas S. Wootton High School": {
@@ -13159,16 +14221,22 @@
             "Active Cases": 144
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 121
+            "Grand Total": 1,
+            "Active Cases": 122
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 97
+            "Active Cases": 98
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 79
         }
     },
     "Thomas W. Pyle Middle School": {
@@ -13234,15 +14302,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 75
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 78
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 64
+            "Active Cases": 67
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 55
         }
     },
     "Thurgood Marshall Elem School": {
@@ -13308,14 +14382,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 23
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 25
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 23
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
             "Active Cases": 21
         }
     },
@@ -13391,6 +14471,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 48
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 47
         }
     },
     "Travilah Elementary School": {
@@ -13456,15 +14542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 9
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 11
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 9
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 13
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 4,
+            "Grand Total": 4,
+            "Active Cases": 16
         }
     },
     "Twinbrook Elementary School": {
@@ -13530,11 +14622,17 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 25
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 26
         },
         "2022-01-16": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 15
+        },
+        "2022-01-17": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
@@ -13603,16 +14701,22 @@
             "Active Cases": 36
         },
         "2022-01-15": {
-            "Staff": 0,
+            "Staff": 2,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 27
+            "Grand Total": 2,
+            "Active Cases": 29
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 12
+            "Active Cases": 14
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
         }
     },
     "Walt Whitman High School": {
@@ -13678,15 +14782,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 78
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 79
         },
         "2022-01-16": {
-            "Staff": 0,
+            "Staff": 1,
             "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 66
+            "Grand Total": 1,
+            "Active Cases": 68
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 61
         }
     },
     "Walter Johnson High School": {
@@ -13752,15 +14862,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 156
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 158
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 131
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 135
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
+            "Active Cases": 122
         }
     },
     "Washington Grove Elem School": {
@@ -13835,6 +14951,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 8
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 4
         }
     },
     "Waters Landing Elementary Schl": {
@@ -13909,6 +15031,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 8
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 7
         }
     },
     "Watkins Mill Elementary School": {
@@ -13983,6 +15111,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 73
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 67
         }
     },
     "Watkins Mill High School": {
@@ -14048,15 +15182,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 150
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 152
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 125
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 130
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 3,
+            "Grand Total": 3,
+            "Active Cases": 98
         }
     },
     "Wayside Elementary School": {
@@ -14122,15 +15262,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 21
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 23
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 15
+            "Active Cases": 17
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 16
         }
     },
     "Weller Road Elementary School": {
@@ -14205,6 +15351,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 46
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 44
         }
     },
     "Westbrook Elementary School": {
@@ -14270,15 +15422,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 18
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 19
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 15
+            "Active Cases": 16
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 14
         }
     },
     "Westland Middle School": {
@@ -14353,6 +15511,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 53
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 45
         }
     },
     "Westover Elementary School": {
@@ -14424,8 +15588,14 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 16
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
             "Active Cases": 15
         }
     },
@@ -14492,15 +15662,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 178
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 179
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 138
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 141
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 4,
+            "Grand Total": 5,
+            "Active Cases": 135
         }
     },
     "Wheaton Woods Elementary Schl": {
@@ -14566,15 +15742,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 85
+            "Student": 16,
+            "Grand Total": 16,
+            "Active Cases": 101
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 76
+            "Active Cases": 92
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 87
         }
     },
     "Whetstone Elementary School": {
@@ -14640,15 +15822,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 40
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 41
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 31
+            "Active Cases": 32
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 28
         }
     },
     "White Oak Middle School": {
@@ -14714,15 +15902,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 35
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 36
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 29
+            "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 0,
+            "Grand Total": 1,
+            "Active Cases": 26
         }
     },
     "William B. Gibbs, Jr. ES": {
@@ -14788,14 +15982,20 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 30
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 32
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
+            "Active Cases": 30
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 2,
+            "Grand Total": 3,
             "Active Cases": 28
         }
     },
@@ -14862,15 +16062,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 31
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 32
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 25
+            "Active Cases": 26
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 0,
+            "Grand Total": 0,
+            "Active Cases": 24
         }
     },
     "William Tyler Page ES": {
@@ -14936,15 +16142,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 34
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 35
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 30
+            "Active Cases": 31
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 26
         }
     },
     "Wilson Wims Elementary School": {
@@ -15016,9 +16228,15 @@
         },
         "2022-01-16": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 37
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 38
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 34
         }
     },
     "Winston Churchill High School": {
@@ -15084,15 +16302,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 150
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 152
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 112
+            "Active Cases": 114
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 5,
+            "Grand Total": 5,
+            "Active Cases": 106
         }
     },
     "Wood Acres Elementary School": {
@@ -15158,15 +16382,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 21
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 22
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 16
+            "Active Cases": 17
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 18
         }
     },
     "Woodfield Elementary School": {
@@ -15241,6 +16471,12 @@
             "Student": 0,
             "Grand Total": 0,
             "Active Cases": 12
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 11
         }
     },
     "Woodlin Elementary School": {
@@ -15306,15 +16542,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 22
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 24
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 18
+            "Active Cases": 20
+        },
+        "2022-01-17": {
+            "Staff": 1,
+            "Student": 1,
+            "Grand Total": 2,
+            "Active Cases": 22
         }
     },
     "Wyngate Elementary School": {
@@ -15380,15 +16622,21 @@
         },
         "2022-01-15": {
             "Staff": 0,
-            "Student": 0,
-            "Grand Total": 0,
-            "Active Cases": 35
+            "Student": 2,
+            "Grand Total": 2,
+            "Active Cases": 37
         },
         "2022-01-16": {
             "Staff": 0,
             "Student": 0,
             "Grand Total": 0,
-            "Active Cases": 32
+            "Active Cases": 34
+        },
+        "2022-01-17": {
+            "Staff": 0,
+            "Student": 1,
+            "Grand Total": 1,
+            "Active Cases": 31
         }
     }
 }
