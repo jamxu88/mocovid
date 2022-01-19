@@ -76,9 +76,6 @@ class StackedBarChart {
             data: studentCaseArray,
             color:'#8494a1'
         }]
-        document.getElementById('studentCount').innerText = studentCaseArray.reduce(this._add,0)
-        document.getElementById('staffCount').innerText = staffCaseArray.reduce(this._add,0)
-        document.getElementById('totalCount').innerText = staffCaseArray.reduce(this._add,0) + studentCaseArray.reduce(this._add,0)
         this.options.chart.height = schoolList.length * 25 < 300 ? 300 : schoolList.length * 25
         this.options.series = arr
         this.options.xaxis.categories = schoolList
