@@ -15,7 +15,7 @@ All data we use can be found in the `server` directory of this repo. Anyone is f
 
 We have 3 publicly available JSONs available for anyone to use! The files are all located in `server` and links along with formats can be found below.
 
-![Dashboard Data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/schooldateinfo.json)
+[Dashboard Data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/schooldateinfo.json)
 ```
 {
   {
@@ -38,7 +38,7 @@ We have 3 publicly available JSONs available for anyone to use! The files are al
 }
 ```
 
-![Each date's data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dateinfo.json)
+[Each date's data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/dateinfo.json)
 ```
 {
     "2022-01-17": [
@@ -59,7 +59,7 @@ We have 3 publicly available JSONs available for anyone to use! The files are al
 }
 ```
 
-![School Data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/schooldateinfo.json)
+[School Data](https://raw.githubusercontent.com/jamxu88/mocovid/main/server/schooldateinfo.json)
 ```
 {
   "Poolesville High School": {
