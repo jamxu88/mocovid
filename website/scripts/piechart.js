@@ -61,7 +61,7 @@ class PieChart {
                     inc.push(school.avg_total_cases_per_day)
                     prc.push(parseInt(school.active_percentages.replace('%','')))
                     asc.push(school.avg_staff_cases_per_day)
-                    sc.push(school.staff_cases_over_10_days)
+                    sc.push(school.staff_cases_over_5_days)
                 }
             }else {
                 positiveCases += school.active_cases_over_10_days
@@ -70,7 +70,7 @@ class PieChart {
                 inc.push(school.avg_total_cases_per_day)
                 prc.push(parseInt(school.active_percentages.replace('%','')))
                 asc.push(school.avg_staff_cases_per_day)
-                sc.push(school.staff_cases_over_10_days)
+                sc.push(school.staff_cases_over_5_days)
             }
             
       })
@@ -79,8 +79,8 @@ class PieChart {
       let aprc = prc.reduce(this._add,0) / prc.length
       let aasc = asc.reduce(this._add,0) / asc.length
       let sca = sc.reduce(this._add,0) / sc.length
-      console.log(`total cases per day: ${ainc}, percent: ${aprc}, staff cases per day: ${aasc}`)
-      var prediction = aprc**2 + ainc * 10 + aasc ** 2 + sca * 3
+      console.log(`total cases per day: ${ainc}, percent: ${aprc}, staff cases per day: ${aasc}, ${sca}`)
+      var prediction = aprc ** 2 + ainc * 10 + aasc * 3 + sca * 20
       document.getElementById('prediction').innerText = Math.ceil(prediction)
     }
     _add(accumulator, a) {
