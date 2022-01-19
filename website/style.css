@@ -57,6 +57,11 @@ body {
 	padding-right: 20%;
 }
 
+.right-justify {
+	text-align: right;
+    place-content: right;
+}
+
 #numbers {
 	padding-bottom: 2%;
 	margin-bottom: 0px;

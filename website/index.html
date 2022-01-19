@@ -25,10 +25,14 @@
             <div id='loading' class='center-content'>
                 Loading Data...
             </div>
-            <div id='numbers' class='center-content'><p>Active Student Cases: <b id='studentCount'>0</b><br>Active Staff Cases: <b id='staffCount'>0</b><br>Total Active Cases: <b id='totalCount'>0</b></p>
+            <div id='numbers' class='center-content'>
+                <p>Active Student Cases: <b id='studentCount' class='right-justify'>0</b><br>Active Staff Cases: <b id='staffCount' class='right-justify'>0</b><br>Total Active Cases: <b id='totalCount' class='right-justify'>0</b><br>Danger score: <b id='prediction'></b></p>
             </div>
             <div class='center-content information'>
-                <p>Data aggregated from the reports found at the <a href="https://www.montgomeryschoolsmd.org/coronavirus/dashboard/" target='_blank'>MCPS COVID Dashboard</a> into a set of visualizations. Data last updated for 01/14/2022. <b>*** Data has not yet been released for 1/15, 1/16, or 1/17. ***</b> This is a work in progress demo with a lot more data and other visualizations coming soon.</p>
+                <p>
+                    <b>What is a danger score?</b> A danger score is a simple number derrived from COVID stats that gague a general understanding of the COVID situation. A higher score will generally mean a higher risk, with scores above 300 having a higher chance of going virtual. Obviously, this method is not perfect, but it can be used to gain a better overall view.
+                </p>
+                <p>Data aggregated from the reports found at the <a href="https://www.montgomeryschoolsmd.org/coronavirus/dashboard/" target='_blank'>MCPS COVID Dashboard</a> into a set of visualizations. Data last updated for 01/14/2022. <b>*** Data has not yet been released for 1/15, 1/16, 1/17, or 1/18. ***</b> This is a work in progress demo with a lot more data and other visualizations coming soon.</p>
                 <p><b>Why is this data different from the official COVID Dashboard graph?</b> The graph on the official dashboard is not accurate and not up to date. We use the released data found in the PDFs released around 7pm each day to calculate our numbers. There will be some error but it is generally accurate.</p>
             </div>
             <button style="width: 50%;margin-left: 25%;" class="center-content" onclick="renderHeatmap()" id='heatmapToggle'>View Heatmap</button>
