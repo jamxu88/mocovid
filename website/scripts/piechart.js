@@ -55,7 +55,7 @@ class PieChart {
             if(this.filter) {
                 console.log(this.filter)
                 if(school.school.toLowerCase().includes(this.filter)) {
-                    positiveCases += school.active_cases_over_10_days
+                    positiveCases += school.active_cases
                     population += school.population
                     schoolList.push(school.school)
                     inc.push(school.avg_total_cases_per_day)
@@ -64,7 +64,7 @@ class PieChart {
                     sc.push(school.staff_cases_over_5_days)
                 }
             }else {
-                positiveCases += school.active_cases_over_10_days
+                positiveCases += school.active_cases
                 population += school.population
                 schoolList.push(school.school)
                 inc.push(school.avg_total_cases_per_day)

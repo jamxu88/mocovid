@@ -57,7 +57,7 @@ dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in da
 
 staffdata5 = [getdata(school, "Staff", dashboarddata5days) for school in schools]
 studentdata10 = [getdata(school, "Student", dashboarddata10day) for school in schools]
-grandtotaldata10 = [getdata(school, "Grand Total", dashboarddata10day) for school in schools]
+grandtotaldata10 = [staffdata5[data] + studentdata10[data] for data in range(len(staffdata5))]
 
 staffdata = [getdata(school, "Staff", dashboarddata) for school in schools]
 studentdata = [getdata(school, "Student", dashboarddata) for school in schools]
@@ -87,8 +87,8 @@ covidf = pd.DataFrame(
      "avg_student_cases_over_10_days": avgstudentdata10,
      "student_cases_total": studentdata,
      "avg_student_cases_per_day": avgstudentdata,
-     "active_cases_over_10_days": grandtotaldata10,
-     "avg_total_over_10_days": avggrandtotaldata10,
+     "active_cases": grandtotaldata10,
+     "active_cases_over_10_days": avggrandtotaldata10,
      "active_percentages": activecasespercentage,
      "total_cases": grandtotaldata,
      "avg_total_cases_per_day": avggrandtotaldata,
