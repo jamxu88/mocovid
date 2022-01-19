@@ -43,9 +43,6 @@ class PieChart {
 
     }
     _setData(data){
-        document.getElementById('studentCount').innerText = studentCaseArray.reduce(this._add,0)
-        document.getElementById('staffCount').innerText = staffCaseArray.reduce(this._add,0)
-        document.getElementById('totalCount').innerText = staffCaseArray.reduce(this._add,0) + studentCaseArray.reduce(this._add,0)
         console.log('Set data')
         var positiveCases = 0
         var population = 0
