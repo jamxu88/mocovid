@@ -4,7 +4,7 @@ class PieChart {
         this.options = {
             series: [25, 15],
             chart: {
-            width: '450px',
+            width: '40%',
             type: 'pie',
             animations: {
               enabled: false
