@@ -18,15 +18,26 @@ popvalues = list(population.values())
 directory = ("data")
 dashboarddata = []
 dashboarddata10days = []
+dashboarddata5days = []
 dates = []
 alldates = []
-days = sorted(os.listdir(directory))[::-1][:10] #taking first 10 days for dashboard
+days = sorted(os.listdir(directory))[::-1][:10]
+staffdays = sorted(os.listdir(directory))[::-1][:5] #taking first 10 days for dashboard
 for filename in days:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
         df = pd.read_excel(f"{directory}/{filename}")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata10days.append(df)
+    else:
+        continue
+
+for filename in staffdays:
+    if filename.endswith(".xlsx"):
+        dates.append(filename[:len(filename) - 5])
+        df = pd.read_excel(f"{directory}/{filename}")
+        df.columns = ["School", "Staff", "Student", "Grand Total"]
+        dashboarddata5days.append(df)
     else:
         continue
 
@@ -41,9 +52,10 @@ for filename in alldays:
         continue
 
 dashboarddata10day = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata10days]
+dashboarddata5days = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata5days]
 dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in dashboarddata]
 
-staffdata10 = [getdata(school, "Staff", dashboarddata10day) for school in schools]
+staffdata5 = [getdata(school, "Staff", dashboarddata5days) for school in schools]
 studentdata10 = [getdata(school, "Student", dashboarddata10day) for school in schools]
 grandtotaldata10 = [getdata(school, "Grand Total", dashboarddata10day) for school in schools]
 
@@ -51,7 +63,7 @@ staffdata = [getdata(school, "Staff", dashboarddata) for school in schools]
 studentdata = [getdata(school, "Student", dashboarddata) for school in schools]
 grandtotaldata = [getdata(school, "Grand Total", dashboarddata) for school in schools]
 
-avgstaffdata10 = [data/len(days) for data in staffdata10]
+avgstaffdata5 = [data/len(staffdays) for data in staffdata5]
 avgstudentdata10 = [data/len(days) for data in studentdata10]
 avggrandtotaldata10 = [data/len(days) for data in grandtotaldata10]
 
@@ -67,8 +79,8 @@ covidf = pd.DataFrame(
     {
      "school": schools,
      "population": popvalues,
-     "staff_cases_over_10_days": staffdata10,
-     "avg_staff_cases_over_10_days": avgstaffdata10,
+     "staff_cases_over_5_days": staffdata5,
+     "avg_staff_cases_over_5_days": avgstaffdata5,
      "staff_cases_total": staffdata,
      "avg_staff_cases_per_day": avgstaffdata,
      "student_cases_over_10_days": studentdata10,
@@ -123,10 +135,10 @@ for school in schools:
                 #include new staff, student, and grand total cases
                 #total cases too
                 schooldatafordate = datejson[date][schoolindex]
-                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:9]) + schooldatafordate["Grand Total"]}
+                temp[date] = {"Staff": schooldatafordate["Staff"], "Student": schooldatafordate["Student"], "Grand Total": schooldatafordate["Grand Total"], "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Student"], list(temp.values())))[::-1][:9]) + sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Staff"], list(temp.values())))[::-1][:4]) + schooldatafordate["Student"] + schooldatafordate["Staff"]}
         if date not in list(temp.keys()):
             try:
-                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Grand Total"], list(temp.values())))[::-1][:9])}
+                temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0, "Active Cases": sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Student"], list(temp.values())))[::-1][:9]) + sum(list(map(lambda schoolspecificdateinfo: schoolspecificdateinfo["Staff"], list(temp.values())))[::-1][:4])}
             except Exception as e:
                 temp[date] = {"Staff": 0, "Student": 0, "Grand Total": 0,
                               "Active Cases": 0}
