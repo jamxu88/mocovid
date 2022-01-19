@@ -50,6 +50,7 @@ class PieChart {
         var inc = []
         var prc = []
         var asc = []
+        var sc = []
         data.forEach(school => {
             if(this.filter) {
                 console.log(this.filter)
@@ -60,6 +61,7 @@ class PieChart {
                     inc.push(school.avg_total_cases_per_day)
                     prc.push(parseInt(school.active_percentages.replace('%','')))
                     asc.push(school.avg_staff_cases_per_day)
+                    sc.push(school.staff_cases_over_10_days)
                 }
             }else {
                 positiveCases += school.active_cases_over_10_days
@@ -68,15 +70,17 @@ class PieChart {
                 inc.push(school.avg_total_cases_per_day)
                 prc.push(parseInt(school.active_percentages.replace('%','')))
                 asc.push(school.avg_staff_cases_per_day)
+                sc.push(school.staff_cases_over_10_days)
             }
             
       })
       this.options.series = [population - positiveCases, positiveCases]
       let ainc = inc.reduce(this._add,0) / inc.length
-      let aprc = prc.reduce(this._add,0) / inc.length
-      let aasc = asc.reduce(this._add,0) / inc.length
+      let aprc = prc.reduce(this._add,0) / prc.length
+      let aasc = asc.reduce(this._add,0) / asc.length
+      let sca = sc.reduce(this._add,0) / sc.length
       console.log(`total cases per day: ${ainc}, percent: ${aprc}, staff cases per day: ${aasc}`)
-      var prediction = aprc**2 + ainc * 10 + aasc ** 2
+      var prediction = aprc**2 + ainc * 10 + aasc ** 2 + sca * 3
       document.getElementById('prediction').innerText = Math.ceil(prediction)
     }
     _add(accumulator, a) {
