@@ -3,6 +3,7 @@
 ## Contents
 - [About this project](https://github.com/jamxu88/mocovid/blob/main/README.md#about-this-project)
 - [Data](https://github.com/jamxu88/mocovid/blob/main/README.md#data)
+- [Using your own data](https://github.com/jamxu88/mocovid/blob/main/README.md#using-your-own-data)
 - [Support this project](https://github.com/jamxu88/mocovid/blob/main/README.md#support-this-project)
 
 ### About this project
@@ -83,5 +84,8 @@ We have 3 publicly available JSONs available for anyone to use! The files are al
 <br>
 <br>
 We know that data is important, and therefore it must be accurate. If there are any percieved issues with the data or inaccuracies to fix, feel free to create an issue and we will address it.
+
+### Using your own data
+You can easily use your own data by following the same format as the .xlsx files in the `server/data` folder, and running the python scripts to generate the jsons.
 
 ### Support this project
