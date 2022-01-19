@@ -57,7 +57,7 @@ dashboarddata = [df[~df["Grand Total"].isnull()].replace(np.nan, 0) for df in da
 
 staffdata5 = [getdata(school, "Staff", dashboarddata5days) for school in schools]
 studentdata10 = [getdata(school, "Student", dashboarddata10day) for school in schools]
-grandtotaldata10 = [getdata(school, "Grand Total", dashboarddata10day) for school in schools]
+grandtotaldata10 = [staffdata5[data] + studentdata10[data] for data in range(len(staffdata5))]
 
 staffdata = [getdata(school, "Staff", dashboarddata) for school in schools]
 studentdata = [getdata(school, "Student", dashboarddata) for school in schools]
