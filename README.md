@@ -81,8 +81,6 @@ We have 3 publicly available JSONs available for anyone to use! The files are al
 }
 ```
 
-<br>
-<br>
 We know that data is important, and therefore it must be accurate. If there are any percieved issues with the data or inaccuracies to fix, feel free to create an issue and we will address it.
 
 ### Using your own data
