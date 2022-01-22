@@ -4,7 +4,7 @@ class PieChart {
         this.options = {
             series: [25, 15],
             chart: {
-            width: '40%',
+            width: '60%',
             type: 'pie',
             animations: {
               enabled: false
@@ -33,7 +33,8 @@ class PieChart {
             }
           },
           tooltip: {
-            fillSeriesColor: true
+            fillSeriesColor: true,
+            enabled: true,
           },
           legend: {
             show: false
