@@ -23,6 +23,7 @@ dates = []
 alldates = []
 days = sorted(os.listdir(directory))[::-1][:10]
 staffdays = sorted(os.listdir(directory))[::-1][:5] #taking first 10 days for dashboard
+os.chdir("mocovid") #idk dude
 for filename in days:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
