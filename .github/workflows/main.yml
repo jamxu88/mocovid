@@ -42,6 +42,7 @@ jobs:
     if: needs.check.outputs.run_job == 'true'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: setup python
         uses: actions/setup-python@v2
         with:
