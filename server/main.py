@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import json
-from openpyxl import load_workbook
 
 def getdata(school, metric, data):
     info = [(df.loc[df["School"] == school, metric].iloc[0])
