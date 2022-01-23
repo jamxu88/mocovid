@@ -2,3 +2,4 @@ pandas
 numpy
 openpyxl
 geopy
+xlrd
