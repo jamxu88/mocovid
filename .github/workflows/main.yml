@@ -50,6 +50,7 @@ jobs:
       - name: execute main.py
         run: |
           chmod +x ./server/main.py
+          python -m pip install -r ./requirements.txt
           python ./server/main.py
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
