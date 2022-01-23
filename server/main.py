@@ -116,14 +116,12 @@ datejson = {
     key:
         [val[subkey]
             for subkey in range(len(val))
-                if (isinstance(val[subkey]["Grand Total"], int))
-                    and (isinstance(val[subkey]["Staff"], int))
-                    and (isinstance(val[subkey]["Student"], int))
+                if (isinstance(val[subkey]["Grand Total"], float) or isinstance(val[subkey]["Grand Total"], int))
+                    and (isinstance(val[subkey]["Staff"], float) or isinstance(val[subkey]["Staff"], int))
+                    and (isinstance(val[subkey]["Student"], float) or isinstance(val[subkey]["Student"], int))
         ]
     for key, val in datejson.items()
 }
-
-raise ValueError(json.dumps(datejson, indent=4))
 
 with open('dateinfo.json', "w") as outputfile2:
     outputfile2.write(json.dumps(datejson, indent=4))
