@@ -30,9 +30,7 @@ for filename in days:
         if filename.split(".")[1] == 'xlsx':
             file = f"{directory}/{filename}"
             try:
-                if os.path.exists(f"{os.getcwd()}/{file}"):
-                    new_wb = load_workbook(f"{os.getcwd()}/{file}")
-                    df = pd.read_excel(new_wb, engine = "openpyxl")
+                df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "openpyxl")
             except Exception as e:
                 raise ValueError(f"{os.getcwd()}/{file}", e)
         else:
@@ -161,7 +159,6 @@ for school in schools:
 
 with open("schooldateinfo.json", "w") as outputfile:
     outputfile.write(json.dumps(schooldateinfo, indent=4))
-
 
 
 
