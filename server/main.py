@@ -27,14 +27,8 @@ staffdays = sorted(os.listdir(directory))[::-1][:5] #taking first 10 days for da
 for filename in days:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
-        if filename.split(".")[1] == 'xlsx':
-            file = f"{directory}/{filename}"
-            try:
-                df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "openpyxl")
-            except Exception as e:
-                raise ValueError(f"{os.getcwd()}/{file}", e)
-        else:
-            raise ValueError(f"{directory}/{filename} not supported")
+        file = f"{directory}/{filename}"
+        df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "openpyxl")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata10days.append(df)
     else:
@@ -43,12 +37,8 @@ for filename in days:
 for filename in staffdays:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
-        if filename.split(".")[1] == 'xlsx':
-            df = pd.read_excel(f"{directory}/{filename}", engine = "openpyxl")
-        elif filename.split(".")[1] == 'xls':
-            df = pd.read_excel(f"{directory}/{filename}")
-        else:
-            print(f"{directory}/{filename} not supported")
+        file = f"{directory}/{filename}"
+        df = pd.read_excel(f"{os.getcwd()}/{file}", engine="openpyxl")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata5days.append(df)
     else:
@@ -58,7 +48,8 @@ alldays = sorted(os.listdir(directory))[::-1]
 for filename in alldays:
     if filename.endswith(".xlsx"):
         alldates.append(filename[:len(filename) - 5])
-        df = pd.read_excel(f"{directory}/{filename}")
+        file = f"{directory}/{filename}"
+        df = pd.read_excel(f"{os.getcwd()}/{file}", engine="openpyxl")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata.append(df)
     else:

@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 jobs:
   check:
-    name: Check files
+    name: Check if new data was added
     outputs:
       run_job: ${{ steps.check_files.outputs.run_job }}
     runs-on: ubuntu-latest
@@ -37,7 +37,7 @@ jobs:
           done < files.txt
 
   job_to_modify:
-    name: Commit and Push New Data
+    name: commit and push new data
     needs: check
     if: needs.check.outputs.run_job == 'true'
     runs-on: ubuntu-latest
