@@ -123,6 +123,8 @@ datejson = {
     for key, val in datejson.items()
 }
 
+raise ValueError(json.dumps(datejson, indent=4))
+
 with open('dateinfo.json', "w") as outputfile2:
     outputfile2.write(json.dumps(datejson, indent=4))
 
