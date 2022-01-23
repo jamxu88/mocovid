@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 import json
+from openpyxl import load_workbook
 
 def getdata(school, metric, data):
     info = [(df.loc[df["School"] == school, metric].iloc[0])
@@ -29,13 +30,13 @@ for filename in days:
         if filename.split(".")[1] == 'xlsx':
             file = f"{directory}/{filename}"
             try:
-                df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "openpyxl")
+                if os.path.exists(f"{os.getcwd()}/{file}"):
+                    new_wb = load_workbook(f"{os.getcwd()}/{file}")
+                    df = pd.read_excel(new_wb, engine = "openpyxl")
             except Exception as e:
                 raise ValueError(f"{os.getcwd()}/{file}", e)
-        elif filename.split(".")[1] == 'xls':
-            df = pd.read_excel(f"{directory}/{filename}")
         else:
-            print(f"{directory}/{filename} not supported")
+            raise ValueError(f"{directory}/{filename} not supported")
         df.columns = ["School", "Staff", "Student", "Grand Total"]
         dashboarddata10days.append(df)
     else:
