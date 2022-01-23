@@ -50,7 +50,7 @@ jobs:
       - name: execute main.py
         run: |
           chmod +x ./server/main.py
-          ./server/main.py
+          python ./server/main.py
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
