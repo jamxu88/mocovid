@@ -29,7 +29,7 @@ for filename in days:
         if filename.split(".")[1] == 'xlsx':
             file = f"{directory}/{filename}"
             try:
-                df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "xlrd")
+                df = pd.read_excel(f"{os.getcwd()}/{file}", engine = "openpyxl")
             except Exception as e:
                 raise ValueError(f"{os.getcwd()}/{file}", e)
         elif filename.split(".")[1] == 'xls':
