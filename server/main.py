@@ -123,8 +123,8 @@ datejson = {
     for key, val in datejson.items()
 }
 
-with open('dateinfo.json', "w") as outputfile:
-    outputfile.write(json.dumps(datejson, indent=4))
+with open('dateinfo.json', "w") as outputfile2:
+    outputfile2.write(json.dumps(datejson, indent=4))
 
 #optimize this at a later date
 schooldateinfo = {}
@@ -148,8 +148,8 @@ for school in schools:
                               "Active Cases": 0}
     schooldateinfo[school] = temp
 
-with open("schooldateinfo.json", "w") as outputfile:
-    outputfile.write(json.dumps(schooldateinfo, indent=4))
+with open("schooldateinfo.json", "w") as outputfile3:
+    outputfile3.write(json.dumps(schooldateinfo, indent=4))
 
 
 
