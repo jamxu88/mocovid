@@ -15,7 +15,7 @@ schools = ['A. Mario Loiederman Middle Sch', 'Albert Einstein High School', 'Alt
 #Thomas Edison High School of Technology didn't have population data. Their population is being taken from the 2020-2021 school year and therefore all info on them isn't as reliable as we want it to be.
 popvalues = list(population.values())
 
-directory = ("./server/data")
+directory = ("data")
 dashboarddata = []
 dashboarddata10days = []
 dashboarddata5days = []
@@ -23,7 +23,6 @@ dates = []
 alldates = []
 days = sorted(os.listdir(directory))[::-1][:10]
 staffdays = sorted(os.listdir(directory))[::-1][:5] #taking first 10 days for dashboard
-os.chdir("mocovid") #idk dude
 for filename in days:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
