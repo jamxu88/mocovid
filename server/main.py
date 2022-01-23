@@ -27,7 +27,10 @@ for filename in days:
     if filename.endswith(".xlsx"):
         dates.append(filename[:len(filename) - 5])
         if filename.split(".")[1] == 'xlsx':
-            df = pd.read_excel(f"{directory}/{filename}", engine = "xlrd")
+            try:
+                df = pd.read_excel(f"{directory}/{filename}", engine = "xlrd")
+            except Exception as e:
+                raise ValueError(f"{directory}/{filename}", e)
         elif filename.split(".")[1] == 'xls':
             df = pd.read_excel(f"{directory}/{filename}")
         else:
