@@ -3,3 +3,4 @@ numpy
 openpyxl
 geopy
 xlrd
+typing
