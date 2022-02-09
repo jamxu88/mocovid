@@ -53,10 +53,11 @@ jobs:
       - name: execute main.py
         working-directory: server
         run: |
-          chmod +x main.py
-          python main.py
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull
+          chmod +x main.py
+          python main.py
           git add -A
           git commit -m "new covid data"
           git push
