@@ -30,7 +30,7 @@ class Heatmap {
         keys.forEach(key => {
             if(this.filter) {
                 data[key].forEach(school => {
-                    if(school["School"] != 'TOTAL' && school["School"] != 'Grand Total' && school['School'].toLowerCase().includes(this.filter)) {
+                    if(school["School"] != 'TOTAL' && school["School"].toLowerCase() != 'grand total' && school['School'].toLowerCase().includes(this.filter)) {
                         !fdata[school["School"]] ? fdata[school["School"]] = {} : fdata[school["School"]] = fdata[school["School"]];
                         fdata[school["School"]][key] = school["Grand Total"]
                     }
@@ -38,7 +38,7 @@ class Heatmap {
                 })
             }else {
                 data[key].forEach(school => {
-                    if(school["School"] != 'TOTAL' && school["School"] != 'Grand Total') {
+                    if(school["School"] != 'TOTAL' && school["School"].toLowerCase() != 'grand total') {
                         !fdata[school["School"]] ? fdata[school["School"]] = {} : fdata[school["School"]] = fdata[school["School"]];
                         fdata[school["School"]][key] = school["Grand Total"]
                     }
