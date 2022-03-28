@@ -9,7 +9,8 @@
 ### About this project
 Montgomery County Public Schools has not been very transparent about the COVID data in schools. Since the massive spike in cases, the previous 5% guideline has been removed. Students, staff, and parents all need to guess how many COVID cases there are, and use the little data they have to push for change. In creating this project, we have aggregated all the public data we can to create a COVID dashboard that is accurate, up to date, and contains extra analysis and other useful information.
 <br>
-The official COVID dashboard found on the MCPS website is outdate and inaccurate, obviously not maintained and is hard to interpret with not a lot of information.
+~~The official COVID dashboard found on the MCPS website is outdate and inaccurate, obviously not maintained and is hard to interpret with not a lot of information.~~
+As of March 1, MCPS has stopped providing the raw data and their COVID dashboard is functional again.
 Read more [here](https://javascript.plainenglish.io/showing-the-whole-picture-cc7fa266d993).
 ### Data
 All data we use can be found in the `server` directory of this repo. Anyone is free to use this data in their own projects. It is all sourced and parsed directly from the reports found on the MCPS Covid dashboard, updated once a day.
